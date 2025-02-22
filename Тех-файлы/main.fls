@@ -1,809 +1,325 @@
-PWD /home/dmitriy/Рабочий стол/Учёба/лабы 6 семестр/Лаба центры окраски/Тех-файлы
-INPUT /etc/texmf/web2c/texmf.cnf
-INPUT /usr/share/texmf/web2c/texmf.cnf
-INPUT /usr/share/texlive/texmf-dist/web2c/texmf.cnf
-INPUT /var/lib/texmf/web2c/pdftex/pdflatex.fmt
-INPUT /home/dmitriy/Рабочий стол/Учёба/лабы 6 семестр/Лаба центры окраски/Тех-файлы/main.tex
+PWD d:\GitHub\6 семестр\Центры окраски\6-sem-lab-1-colored-centers\Тех-файлы
+INPUT C:\Users\The Machine\AppData\Local\MiKTeX\miktex\data\le\pdftex\pdflatex.fmt
+INPUT d:\GitHub\6 семестр\Центры окраски\6-sem-lab-1-colored-centers\Тех-файлы\main.tex
 OUTPUT main.log
-INPUT /usr/share/texlive/texmf-dist/tex/latex/revtex4/revtex4.cls
-INPUT /usr/share/texlive/texmf-dist/tex/latex/revtex4/revtex4.cls
-INPUT /usr/share/texlive/texmf-dist/tex/latex/revtex4/revtex4.cls
-INPUT /usr/share/texlive/texmf-dist/tex/latex/revtex4/revtex4.cls
-INPUT /usr/share/texlive/texmf-dist/tex/latex/revtex4/revtex4.cls
-INPUT /usr/share/texlive/texmf-dist/tex/latex/revtex4/revtex4.cls
-INPUT /usr/share/texlive/texmf-dist/tex/latex/revtex4/revtex4.cls
-INPUT /usr/share/texlive/texmf-dist/tex/latex/revtex4/revtex4.cls
-INPUT /usr/share/texlive/texmf-dist/tex/latex/revtex4/revtex4.cls
-INPUT /usr/share/texlive/texmf-dist/tex/latex/revtex4/revtex4.cls
-INPUT /usr/share/texlive/texmf-dist/tex/latex/revtex4/revtex4.cls
-INPUT /usr/share/texlive/texmf-dist/tex/latex/url/url.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/url/url.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/url/url.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/url/url.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/url/url.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/url/url.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/url/url.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/url/url.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/url/url.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/url/url.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/url/url.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/natbib/natbib.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/natbib/natbib.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/natbib/natbib.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/natbib/natbib.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/natbib/natbib.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/natbib/natbib.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/natbib/natbib.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/natbib/natbib.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/natbib/natbib.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/natbib/natbib.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/natbib/natbib.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/revtex4/revsymb.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/revtex4/revsymb.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/revtex4/revsymb.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/revtex4/revsymb.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/revtex4/revsymb.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/revtex4/revsymb.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/revtex4/revsymb.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/revtex4/revsymb.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/revtex4/revsymb.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/revtex4/revsymb.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/revtex4/revsymb.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/revtex4/aps.rtx
-INPUT /usr/share/texlive/texmf-dist/tex/latex/revtex4/aps.rtx
-INPUT /usr/share/texlive/texmf-dist/tex/latex/revtex4/aps.rtx
-INPUT /usr/share/texlive/texmf-dist/tex/latex/revtex4/aps.rtx
-INPUT /usr/share/texlive/texmf-dist/tex/latex/revtex4/12pt.rtx
-INPUT /usr/share/texlive/texmf-dist/tex/latex/revtex4/12pt.rtx
-INPUT /usr/share/texlive/texmf-dist/tex/latex/revtex4/12pt.rtx
-INPUT /usr/share/texlive/texmf-dist/tex/latex/revtex4/12pt.rtx
-INPUT ./ljm.sty
-INPUT ./ljm.sty
+INPUT C:\Users\The Machine\AppData\Local\Programs\MiKTeX\tex\latex\revtex4\revtex4.cls
+INPUT C:\Users\The Machine\AppData\Local\Programs\MiKTeX\tex\latex\revtex4\revtex4.cls
+INPUT C:\Users\The Machine\AppData\Local\Programs\MiKTeX\tex\latex\url\url.sty
+INPUT C:\Users\The Machine\AppData\Local\Programs\MiKTeX\tex\latex\url\url.sty
+INPUT C:\Users\The Machine\AppData\Local\Programs\MiKTeX\tex\latex\natbib\natbib.sty
+INPUT C:\Users\The Machine\AppData\Local\Programs\MiKTeX\tex\latex\natbib\natbib.sty
+INPUT C:\Users\The Machine\AppData\Local\Programs\MiKTeX\tex\latex\revtex4\revsymb.sty
+INPUT C:\Users\The Machine\AppData\Local\Programs\MiKTeX\tex\latex\revtex4\revsymb.sty
+INPUT C:\Users\The Machine\AppData\Local\Programs\MiKTeX\tex\latex\revtex4\aps.rtx
+INPUT C:\Users\The Machine\AppData\Local\Programs\MiKTeX\tex\latex\revtex4\aps.rtx
+INPUT C:\Users\The Machine\AppData\Local\Programs\MiKTeX\tex\latex\revtex4\aps.rtx
+INPUT C:\Users\The Machine\AppData\Local\Programs\MiKTeX\tex\latex\revtex4\12pt.rtx
+INPUT C:\Users\The Machine\AppData\Local\Programs\MiKTeX\tex\latex\revtex4\12pt.rtx
+INPUT C:\Users\The Machine\AppData\Local\Programs\MiKTeX\tex\latex\revtex4\12pt.rtx
+INPUT .\ljm.sty
 INPUT ljm.sty
-INPUT ./ljm.sty
-INPUT ./ljm.sty
-INPUT ./ljm.sty
-INPUT ./ljm.sty
-INPUT ./ljm.sty
-INPUT ljm.sty
-INPUT ./ljm.sty
-INPUT ljm.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/amsfonts/amssymb.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/amsfonts/amssymb.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/amsfonts/amssymb.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/amsfonts/amssymb.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/amsfonts/amssymb.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/amsfonts/amssymb.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/amsfonts/amssymb.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/amsfonts/amssymb.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/amsfonts/amssymb.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/amsfonts/amssymb.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/amsfonts/amssymb.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/amsfonts/amsfonts.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/amsfonts/amsfonts.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/amsfonts/amsfonts.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/amsfonts/amsfonts.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/amsfonts/amsfonts.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/amsfonts/amsfonts.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/amsfonts/amsfonts.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/amsfonts/amsfonts.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/amsfonts/amsfonts.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/amsfonts/amsfonts.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/amsfonts/amsfonts.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/amsfonts/amsfonts.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/amsmath/amsmath.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/amsmath/amsmath.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/amsmath/amsmath.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/amsmath/amsmath.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/amsmath/amsmath.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/amsmath/amsmath.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/amsmath/amsmath.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/amsmath/amsmath.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/amsmath/amsmath.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/amsmath/amsmath.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/amsmath/amsmath.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/amsmath/amsopn.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/amsmath/amsopn.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/amsmath/amstext.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/amsmath/amstext.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/amsmath/amstext.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/amsmath/amstext.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/amsmath/amstext.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/amsmath/amstext.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/amsmath/amstext.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/amsmath/amstext.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/amsmath/amstext.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/amsmath/amstext.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/amsmath/amstext.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/amsmath/amsgen.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/amsmath/amsgen.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/amsmath/amsgen.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/amsmath/amsgen.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/amsmath/amsgen.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/amsmath/amsgen.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/amsmath/amsgen.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/amsmath/amsgen.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/amsmath/amsgen.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/amsmath/amsgen.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/amsmath/amsgen.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/amsmath/amsbsy.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/amsmath/amsbsy.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/amsmath/amsbsy.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/amsmath/amsbsy.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/amsmath/amsbsy.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/amsmath/amsbsy.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/amsmath/amsbsy.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/amsmath/amsbsy.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/amsmath/amsbsy.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/amsmath/amsbsy.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/amsmath/amsbsy.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/amsmath/amsgen.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/amsmath/amsopn.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/amsmath/amsopn.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/amsmath/amsopn.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/amsmath/amsopn.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/amsmath/amsopn.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/amsmath/amsopn.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/amsmath/amsopn.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/amsmath/amsopn.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/amsmath/amsopn.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/amsmath/amsopn.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/amsmath/amsopn.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/amsmath/amsgen.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/amsmath/amscd.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/amsmath/amscd.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/amsmath/amscd.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/amsmath/amscd.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/amsmath/amscd.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/amsmath/amscd.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/amsmath/amscd.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/amsmath/amscd.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/amsmath/amscd.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/amsmath/amscd.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/amsmath/amscd.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/amsmath/amsgen.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/amscls/amsthm.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/amscls/amsthm.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/amscls/amsthm.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/amscls/amsthm.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/amscls/amsthm.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/amscls/amsthm.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/amscls/amsthm.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/amscls/amsthm.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/amscls/amsthm.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/amscls/amsthm.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/amscls/amsthm.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/t2/mathtext.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/t2/mathtext.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/t2/mathtext.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/t2/mathtext.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/t2/mathtext.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/t2/mathtext.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/t2/mathtext.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/t2/mathtext.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/t2/mathtext.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/t2/mathtext.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/t2/mathtext.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/cyrillic/t2aenc.def
-INPUT /usr/share/texlive/texmf-dist/tex/latex/cyrillic/t2aenc.def
-INPUT /usr/share/texlive/texmf-dist/tex/latex/cyrillic/t2aenc.def
-INPUT /usr/share/texlive/texmf-dist/tex/latex/cyrillic/t2aenc.def
-INPUT /usr/share/texlive/texmf-dist/tex/latex/base/t2aenc.dfu
-INPUT /usr/share/texlive/texmf-dist/tex/latex/base/t2aenc.dfu
-INPUT /usr/share/texlive/texmf-dist/tex/latex/base/t2aenc.dfu
-INPUT /usr/share/texlive/texmf-dist/tex/latex/base/t2aenc.dfu
-INPUT /usr/share/texlive/texmf-dist/tex/latex/cyrillic/t2acmr.fd
-INPUT /usr/share/texlive/texmf-dist/tex/latex/cyrillic/t2acmr.fd
-INPUT /usr/share/texlive/texmf-dist/tex/latex/cyrillic/t2acmr.fd
-INPUT /usr/share/texlive/texmf-dist/tex/latex/cyrillic/t2acmr.fd
-INPUT /usr/share/texlive/texmf-dist/fonts/map/fontname/texfonts.map
-INPUT /home/dmitriy/.texlive2021/texmf-var/fonts/tfm/lh/lh-t2a/larm1000.tfm
-INPUT /usr/share/texlive/texmf-dist/tex/latex/base/inputenc.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/base/inputenc.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/base/inputenc.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/base/inputenc.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/base/inputenc.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/base/inputenc.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/base/inputenc.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/base/inputenc.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/base/inputenc.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/base/inputenc.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/base/inputenc.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/ucs/utf8x.def
-INPUT /usr/share/texlive/texmf-dist/tex/latex/ucs/utf8x.def
-INPUT /usr/share/texlive/texmf-dist/tex/latex/ucs/utf8x.def
-INPUT /usr/share/texlive/texmf-dist/tex/latex/ucs/utf8x.def
-INPUT /usr/share/texlive/texmf-dist/tex/latex/ucs/ucs.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/ucs/ucs.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/ucs/ucs.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/ucs/ucs.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/ucs/ucs.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/ucs/ucs.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/ucs/ucs.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/ucs/ucs.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/ucs/ucs.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/ucs/ucs.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/ucs/ucs.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/ucs/data/uni-global.def
-INPUT /usr/share/texlive/texmf-dist/tex/latex/ucs/data/uni-global.def
-INPUT /usr/share/texlive/texmf-dist/tex/latex/ucs/data/uni-global.def
-INPUT /usr/share/texlive/texmf-dist/tex/latex/ucs/data/uni-global.def
-INPUT /usr/share/texlive/texmf-dist/tex/generic/babel/babel.sty
-INPUT /usr/share/texlive/texmf-dist/tex/generic/babel/babel.sty
-INPUT /usr/share/texlive/texmf-dist/tex/generic/babel/babel.sty
-INPUT /usr/share/texlive/texmf-dist/tex/generic/babel/babel.sty
-INPUT /usr/share/texlive/texmf-dist/tex/generic/babel/babel.sty
-INPUT /usr/share/texlive/texmf-dist/tex/generic/babel/babel.sty
-INPUT /usr/share/texlive/texmf-dist/tex/generic/babel/babel.sty
-INPUT /usr/share/texlive/texmf-dist/tex/generic/babel/babel.sty
-INPUT /usr/share/texlive/texmf-dist/tex/generic/babel/babel.sty
-INPUT /usr/share/texlive/texmf-dist/tex/generic/babel/babel.sty
-INPUT /usr/share/texlive/texmf-dist/tex/generic/babel/babel.sty
-INPUT /usr/share/texlive/texmf-dist/tex/generic/babel/txtbabel.def
-INPUT /usr/share/texlive/texmf-dist/tex/generic/babel-russian/russianb.ldf
-INPUT /usr/share/texlive/texmf-dist/tex/generic/babel-russian/russianb.ldf
-INPUT /usr/share/texlive/texmf-dist/tex/generic/babel-russian/russianb.ldf
-INPUT /usr/share/texlive/texmf-dist/tex/generic/babel-russian/russianb.ldf
-INPUT /usr/share/texlive/texmf-dist/tex/generic/babel-english/english.ldf
-INPUT /usr/share/texlive/texmf-dist/tex/generic/babel-english/english.ldf
-INPUT /usr/share/texlive/texmf-dist/tex/generic/babel-english/english.ldf
-INPUT /usr/share/texlive/texmf-dist/tex/generic/babel-english/english.ldf
-INPUT ./literat.sty
-INPUT ./literat.sty
+INPUT C:\Users\The Machine\AppData\Local\Programs\MiKTeX\tex\latex\amsfonts\amssymb.sty
+INPUT C:\Users\The Machine\AppData\Local\Programs\MiKTeX\tex\latex\amsfonts\amssymb.sty
+INPUT C:\Users\The Machine\AppData\Local\Programs\MiKTeX\tex\latex\amsfonts\amsfonts.sty
+INPUT C:\Users\The Machine\AppData\Local\Programs\MiKTeX\tex\latex\amsfonts\amsfonts.sty
+INPUT C:\Users\The Machine\AppData\Local\Programs\MiKTeX\tex\latex\amsmath\amsmath.sty
+INPUT C:\Users\The Machine\AppData\Local\Programs\MiKTeX\tex\latex\amsmath\amsmath.sty
+INPUT C:\Users\The Machine\AppData\Local\Programs\MiKTeX\tex\latex\amsmath\amsopn.sty
+INPUT C:\Users\The Machine\AppData\Local\Programs\MiKTeX\tex\latex\amsmath\amstext.sty
+INPUT C:\Users\The Machine\AppData\Local\Programs\MiKTeX\tex\latex\amsmath\amstext.sty
+INPUT C:\Users\The Machine\AppData\Local\Programs\MiKTeX\tex\latex\amsmath\amsgen.sty
+INPUT C:\Users\The Machine\AppData\Local\Programs\MiKTeX\tex\latex\amsmath\amsgen.sty
+INPUT C:\Users\The Machine\AppData\Local\Programs\MiKTeX\tex\latex\amsmath\amsbsy.sty
+INPUT C:\Users\The Machine\AppData\Local\Programs\MiKTeX\tex\latex\amsmath\amsbsy.sty
+INPUT C:\Users\The Machine\AppData\Local\Programs\MiKTeX\tex\latex\amsmath\amsopn.sty
+INPUT C:\Users\The Machine\AppData\Local\Programs\MiKTeX\tex\latex\amsmath\amscd.sty
+INPUT C:\Users\The Machine\AppData\Local\Programs\MiKTeX\tex\latex\amsmath\amscd.sty
+INPUT C:\Users\The Machine\AppData\Local\Programs\MiKTeX\tex\latex\amscls\amsthm.sty
+INPUT C:\Users\The Machine\AppData\Local\Programs\MiKTeX\tex\latex\amscls\amsthm.sty
+INPUT C:\Users\The Machine\AppData\Local\Programs\MiKTeX\tex\latex\t2\mathtext.sty
+INPUT C:\Users\The Machine\AppData\Local\Programs\MiKTeX\tex\latex\t2\mathtext.sty
+INPUT C:\Users\The Machine\AppData\Local\Programs\MiKTeX\tex\latex\base\fontenc.sty
+INPUT C:\Users\The Machine\AppData\Local\Programs\MiKTeX\tex\latex\base\fontenc.sty
+INPUT C:\Users\The Machine\AppData\Local\Programs\MiKTeX\tex\latex\cyrillic\t2aenc.def
+INPUT C:\Users\The Machine\AppData\Local\Programs\MiKTeX\tex\latex\cyrillic\t2aenc.def
+INPUT C:\Users\The Machine\AppData\Local\Programs\MiKTeX\tex\latex\cyrillic\t2aenc.def
+INPUT C:\Users\The Machine\AppData\Local\Programs\MiKTeX\tex\latex\base\t2aenc.dfu
+INPUT C:\Users\The Machine\AppData\Local\Programs\MiKTeX\tex\latex\base\t2aenc.dfu
+INPUT C:\Users\The Machine\AppData\Local\Programs\MiKTeX\tex\latex\base\t2aenc.dfu
+INPUT C:\Users\The Machine\AppData\Local\Programs\MiKTeX\tex\latex\cyrillic\t2acmr.fd
+INPUT C:\Users\The Machine\AppData\Local\Programs\MiKTeX\tex\latex\cyrillic\t2acmr.fd
+INPUT C:\Users\The Machine\AppData\Local\Programs\MiKTeX\tex\latex\cyrillic\t2acmr.fd
+INPUT C:\Users\The Machine\AppData\Local\MiKTeX\fonts\tfm\lh\lh-t2a\larm1000.tfm
+INPUT C:\Users\The Machine\AppData\Local\Programs\MiKTeX\tex\latex\base\inputenc.sty
+INPUT C:\Users\The Machine\AppData\Local\Programs\MiKTeX\tex\latex\base\inputenc.sty
+INPUT C:\Users\The Machine\AppData\Local\Programs\MiKTeX\tex\latex\ucs\utf8x.def
+INPUT C:\Users\The Machine\AppData\Local\Programs\MiKTeX\tex\latex\ucs\utf8x.def
+INPUT C:\Users\The Machine\AppData\Local\Programs\MiKTeX\tex\latex\ucs\utf8x.def
+INPUT C:\Users\The Machine\AppData\Local\Programs\MiKTeX\tex\latex\base\utf8.def
+INPUT C:\Users\The Machine\AppData\Local\Programs\MiKTeX\tex\latex\base\omsenc.dfu
+INPUT C:\Users\The Machine\AppData\Local\Programs\MiKTeX\tex\latex\base\omsenc.dfu
+INPUT C:\Users\The Machine\AppData\Local\Programs\MiKTeX\tex\latex\base\omsenc.dfu
+INPUT C:\Users\The Machine\AppData\Local\Programs\MiKTeX\tex\latex\base\ot1enc.dfu
+INPUT C:\Users\The Machine\AppData\Local\Programs\MiKTeX\tex\latex\base\ot1enc.dfu
+INPUT C:\Users\The Machine\AppData\Local\Programs\MiKTeX\tex\latex\base\ot1enc.dfu
+INPUT C:\Users\The Machine\AppData\Local\Programs\MiKTeX\tex\latex\base\t1enc.dfu
+INPUT C:\Users\The Machine\AppData\Local\Programs\MiKTeX\tex\latex\base\t1enc.dfu
+INPUT C:\Users\The Machine\AppData\Local\Programs\MiKTeX\tex\latex\base\t1enc.dfu
+INPUT C:\Users\The Machine\AppData\Local\Programs\MiKTeX\tex\latex\base\ts1enc.dfu
+INPUT C:\Users\The Machine\AppData\Local\Programs\MiKTeX\tex\latex\base\ts1enc.dfu
+INPUT C:\Users\The Machine\AppData\Local\Programs\MiKTeX\tex\latex\base\ts1enc.dfu
+INPUT C:\Users\The Machine\AppData\Local\Programs\MiKTeX\tex\latex\base\t2aenc.dfu
+INPUT C:\Users\The Machine\AppData\Local\Programs\MiKTeX\tex\latex\base\t2aenc.dfu
+INPUT C:\Users\The Machine\AppData\Local\Programs\MiKTeX\tex\latex\base\t2aenc.dfu
+INPUT C:\Users\The Machine\AppData\Local\Programs\MiKTeX\tex\generic\babel\babel.sty
+INPUT C:\Users\The Machine\AppData\Local\Programs\MiKTeX\tex\generic\babel\babel.sty
+INPUT C:\Users\The Machine\AppData\Local\Programs\MiKTeX\tex\generic\babel\txtbabel.def
+INPUT C:\Users\The Machine\AppData\Local\Programs\MiKTeX\tex\latex\arabi\bblopts.cfg
+INPUT C:\Users\The Machine\AppData\Local\Programs\MiKTeX\tex\latex\arabi\bblopts.cfg
+INPUT C:\Users\The Machine\AppData\Local\Programs\MiKTeX\tex\latex\arabi\bblopts.cfg
+INPUT C:\Users\The Machine\AppData\Local\Programs\MiKTeX\tex\latex\babel-russian\russianb.ldf
+INPUT C:\Users\The Machine\AppData\Local\Programs\MiKTeX\tex\latex\babel-russian\russianb.ldf
+INPUT C:\Users\The Machine\AppData\Local\Programs\MiKTeX\tex\latex\babel-russian\russianb.ldf
+INPUT C:\Users\The Machine\AppData\Local\Programs\MiKTeX\tex\latex\babel-english\english.ldf
+INPUT C:\Users\The Machine\AppData\Local\Programs\MiKTeX\tex\latex\babel-english\english.ldf
+INPUT C:\Users\The Machine\AppData\Local\Programs\MiKTeX\tex\latex\babel-english\english.ldf
+INPUT C:\Users\The Machine\AppData\Local\Programs\MiKTeX\tex\generic\babel\locale\en\babel-english.tex
+INPUT C:\Users\The Machine\AppData\Local\Programs\MiKTeX\tex\generic\babel\locale\en\babel-english.tex
+INPUT C:\Users\The Machine\AppData\Local\Programs\MiKTeX\tex\generic\babel\locale\en\babel-english.tex
+INPUT C:\Users\The Machine\AppData\Local\Programs\MiKTeX\tex\generic\babel\locale\en\babel-en.ini
+INPUT C:\Users\The Machine\AppData\Local\Programs\MiKTeX\tex\generic\babel\locale\ru\babel-russian.tex
+INPUT C:\Users\The Machine\AppData\Local\Programs\MiKTeX\tex\generic\babel\locale\ru\babel-russian.tex
+INPUT C:\Users\The Machine\AppData\Local\Programs\MiKTeX\tex\generic\babel\locale\ru\babel-russian.tex
+INPUT C:\Users\The Machine\AppData\Local\Programs\MiKTeX\tex\generic\babel\locale\ru\babel-ru.ini
+INPUT .\literat.sty
 INPUT literat.sty
-INPUT ./literat.sty
-INPUT ./literat.sty
-INPUT ./literat.sty
-INPUT ./literat.sty
-INPUT ./literat.sty
-INPUT literat.sty
-INPUT ./literat.sty
-INPUT literat.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/psnfss/pifont.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/psnfss/pifont.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/psnfss/pifont.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/psnfss/pifont.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/psnfss/pifont.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/psnfss/pifont.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/psnfss/pifont.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/psnfss/pifont.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/psnfss/pifont.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/psnfss/pifont.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/psnfss/pifont.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/psnfss/upzd.fd
-INPUT /usr/share/texlive/texmf-dist/tex/latex/psnfss/upzd.fd
-INPUT /usr/share/texlive/texmf-dist/tex/latex/psnfss/upzd.fd
-INPUT /usr/share/texlive/texmf-dist/tex/latex/psnfss/upzd.fd
-INPUT /usr/share/texlive/texmf-dist/fonts/tfm/adobe/zapfding/pzdr.tfm
-INPUT /usr/share/texlive/texmf-dist/tex/latex/psnfss/upsy.fd
-INPUT /usr/share/texlive/texmf-dist/tex/latex/psnfss/upsy.fd
-INPUT /usr/share/texlive/texmf-dist/tex/latex/psnfss/upsy.fd
-INPUT /usr/share/texlive/texmf-dist/tex/latex/psnfss/upsy.fd
-INPUT /usr/share/texlive/texmf-dist/fonts/tfm/adobe/symbol/psyr.tfm
-INPUT /usr/share/texlive/texmf-dist/tex/latex/tools/bm.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/tools/bm.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/tools/bm.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/tools/bm.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/tools/bm.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/tools/bm.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/tools/bm.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/tools/bm.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/tools/bm.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/tools/bm.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/tools/bm.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/tools/array.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/tools/array.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/tools/array.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/tools/array.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/tools/array.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/tools/array.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/tools/array.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/tools/array.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/tools/array.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/tools/array.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/tools/array.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/tools/dcolumn.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/tools/dcolumn.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/tools/dcolumn.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/tools/dcolumn.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/tools/dcolumn.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/tools/dcolumn.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/tools/dcolumn.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/tools/dcolumn.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/tools/dcolumn.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/tools/dcolumn.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/tools/dcolumn.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/tools/array.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/tools/hhline.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/tools/hhline.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/tools/hhline.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/tools/hhline.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/tools/hhline.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/tools/hhline.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/tools/hhline.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/tools/hhline.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/tools/hhline.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/tools/hhline.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/tools/hhline.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/multirow/multirow.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/multirow/multirow.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/multirow/multirow.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/multirow/multirow.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/multirow/multirow.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/multirow/multirow.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/multirow/multirow.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/multirow/multirow.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/multirow/multirow.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/multirow/multirow.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/multirow/multirow.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
-INPUT /usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
-INPUT /usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
-INPUT /usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
-INPUT /usr/share/texlive/texmf-dist/tex/latex/graphics-def/pdftex.def
-INPUT /usr/share/texlive/texmf-dist/tex/latex/graphics-def/pdftex.def
-INPUT /usr/share/texlive/texmf-dist/tex/latex/graphics-def/pdftex.def
-INPUT /usr/share/texlive/texmf-dist/tex/latex/graphics-def/pdftex.def
-INPUT /usr/share/texlive/texmf-dist/tex/latex/graphics/rotating.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/graphics/rotating.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/graphics/rotating.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/graphics/rotating.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/graphics/rotating.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/graphics/rotating.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/graphics/rotating.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/graphics/rotating.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/graphics/rotating.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/graphics/rotating.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/graphics/rotating.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/base/ifthen.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/base/ifthen.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/base/ifthen.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/base/ifthen.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/base/ifthen.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/base/ifthen.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/base/ifthen.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/base/ifthen.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/base/ifthen.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/base/ifthen.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/base/ifthen.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/tools/calc.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/tools/calc.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/tools/calc.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/tools/calc.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/tools/calc.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/tools/calc.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/tools/calc.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/tools/calc.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/tools/calc.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/tools/calc.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/tools/calc.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/tools/tabularx.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/tools/tabularx.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/tools/tabularx.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/tools/tabularx.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/tools/tabularx.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/tools/tabularx.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/tools/tabularx.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/tools/tabularx.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/tools/tabularx.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/tools/tabularx.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/tools/tabularx.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/tools/array.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/tools/afterpage.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/tools/afterpage.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/tools/afterpage.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/tools/afterpage.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/tools/afterpage.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/tools/afterpage.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/tools/afterpage.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/tools/afterpage.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/tools/afterpage.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/tools/afterpage.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/tools/afterpage.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/base/ifthen.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/caption/caption2.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/caption/caption2.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/caption/caption2.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/caption/caption2.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/caption/caption2.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/caption/caption2.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/caption/caption2.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/caption/caption2.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/caption/caption2.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/caption/caption2.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/caption/caption2.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/caption/caption3.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/caption/caption3.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/caption/caption3.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/caption/caption3.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/caption/caption3.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/caption/caption3.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/caption/caption3.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/caption/caption3.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/caption/caption3.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/caption/caption3.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/caption/caption3.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/substr/substr.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/substr/substr.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/substr/substr.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/substr/substr.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/substr/substr.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/substr/substr.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/substr/substr.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/substr/substr.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/substr/substr.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/substr/substr.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/substr/substr.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/amsfonts/eucal.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/amsfonts/eucal.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/amsfonts/eucal.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/amsfonts/eucal.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/amsfonts/eucal.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/amsfonts/eucal.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/amsfonts/eucal.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/amsfonts/eucal.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/amsfonts/eucal.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/amsfonts/eucal.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/amsfonts/eucal.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/jknapltx/mathrsfs.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/jknapltx/mathrsfs.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/jknapltx/mathrsfs.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/jknapltx/mathrsfs.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/jknapltx/mathrsfs.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/jknapltx/mathrsfs.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/jknapltx/mathrsfs.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/jknapltx/mathrsfs.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/jknapltx/mathrsfs.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/jknapltx/mathrsfs.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/jknapltx/mathrsfs.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/oberdiek/hypbmsec.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/oberdiek/hypbmsec.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/oberdiek/hypbmsec.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/oberdiek/hypbmsec.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/oberdiek/hypbmsec.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/oberdiek/hypbmsec.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/oberdiek/hypbmsec.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/oberdiek/hypbmsec.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/oberdiek/hypbmsec.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/oberdiek/hypbmsec.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/oberdiek/hypbmsec.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/base/latexsym.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/base/latexsym.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/base/latexsym.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/base/latexsym.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/base/latexsym.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/base/latexsym.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/base/latexsym.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/base/latexsym.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/base/latexsym.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/base/latexsym.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/base/latexsym.sty
-INPUT /usr/share/texlive/texmf-dist/tex/generic/xypic/xypic.sty
-INPUT /usr/share/texlive/texmf-dist/tex/generic/xypic/xypic.sty
-INPUT /usr/share/texlive/texmf-dist/tex/generic/xypic/xypic.sty
-INPUT /usr/share/texlive/texmf-dist/tex/generic/xypic/xypic.sty
-INPUT /usr/share/texlive/texmf-dist/tex/generic/xypic/xypic.sty
-INPUT /usr/share/texlive/texmf-dist/tex/generic/xypic/xypic.sty
-INPUT /usr/share/texlive/texmf-dist/tex/generic/xypic/xypic.sty
-INPUT /usr/share/texlive/texmf-dist/tex/generic/xypic/xypic.sty
-INPUT /usr/share/texlive/texmf-dist/tex/generic/xypic/xypic.sty
-INPUT /usr/share/texlive/texmf-dist/tex/generic/xypic/xypic.sty
-INPUT /usr/share/texlive/texmf-dist/tex/generic/xypic/xypic.sty
-INPUT /usr/share/texlive/texmf-dist/tex/generic/xypic/xy.sty
-INPUT /usr/share/texlive/texmf-dist/tex/generic/xypic/xy.sty
-INPUT /usr/share/texlive/texmf-dist/tex/generic/xypic/xy.sty
-INPUT /usr/share/texlive/texmf-dist/tex/generic/xypic/xy.sty
-INPUT /usr/share/texlive/texmf-dist/tex/generic/xypic/xy.tex
-INPUT /usr/share/texlive/texmf-dist/tex/generic/xypic/xyrecat.tex
-INPUT /usr/share/texlive/texmf-dist/tex/generic/xypic/xyidioms.tex
-INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/xypic/xydash10.tfm
-INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/xypic/xyatip10.tfm
-INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/xypic/xybtip10.tfm
-INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/xypic/xybsql10.tfm
-INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/xypic/xycirc10.tfm
-INPUT /usr/share/texlive/texmf-dist/tex/generic/iftex/ifpdf.sty
-INPUT /usr/share/texlive/texmf-dist/tex/generic/iftex/ifpdf.sty
-INPUT /usr/share/texlive/texmf-dist/tex/generic/iftex/ifpdf.sty
-INPUT /usr/share/texlive/texmf-dist/tex/generic/iftex/ifpdf.sty
-INPUT /usr/share/texlive/texmf-dist/tex/generic/iftex/ifpdf.sty
-INPUT /usr/share/texlive/texmf-dist/tex/generic/iftex/ifpdf.sty
-INPUT /usr/share/texlive/texmf-dist/tex/generic/iftex/ifpdf.sty
-INPUT /usr/share/texlive/texmf-dist/tex/generic/iftex/ifpdf.sty
-INPUT /usr/share/texlive/texmf-dist/tex/generic/iftex/ifpdf.sty
-INPUT /usr/share/texlive/texmf-dist/tex/generic/iftex/ifpdf.sty
-INPUT /usr/share/texlive/texmf-dist/tex/generic/iftex/ifpdf.sty
-INPUT /usr/share/texlive/texmf-dist/tex/generic/iftex/iftex.sty
-INPUT /usr/share/texlive/texmf-dist/tex/generic/iftex/iftex.sty
-INPUT /usr/share/texlive/texmf-dist/tex/generic/iftex/iftex.sty
-INPUT /usr/share/texlive/texmf-dist/tex/generic/iftex/iftex.sty
-INPUT /usr/share/texlive/texmf-dist/tex/generic/iftex/iftex.sty
-INPUT /usr/share/texlive/texmf-dist/tex/generic/iftex/iftex.sty
-INPUT /usr/share/texlive/texmf-dist/tex/generic/iftex/iftex.sty
-INPUT /usr/share/texlive/texmf-dist/tex/generic/iftex/iftex.sty
-INPUT /usr/share/texlive/texmf-dist/tex/generic/iftex/iftex.sty
-INPUT /usr/share/texlive/texmf-dist/tex/generic/iftex/iftex.sty
-INPUT /usr/share/texlive/texmf-dist/tex/generic/iftex/iftex.sty
-INPUT /usr/share/texlive/texmf-dist/tex/generic/xypic/xypdf.tex
-INPUT /usr/share/texlive/texmf-dist/tex/generic/xypic/xypdf.tex
-INPUT /usr/share/texlive/texmf-dist/tex/generic/iftex/ifpdf.sty
-INPUT /usr/share/texlive/texmf-dist/tex/generic/xypic/xyv2.tex
-INPUT /usr/share/texlive/texmf-dist/tex/generic/xypic/xyv2.tex
-INPUT /usr/share/texlive/texmf-dist/tex/generic/xypic/xyframe.tex
-INPUT /usr/share/texlive/texmf-dist/tex/generic/xypic/xyframe.tex
-INPUT /usr/share/texlive/texmf-dist/tex/generic/xypic/xypdf-fr.tex
-INPUT /usr/share/texlive/texmf-dist/tex/generic/xypic/xycurve.tex
-INPUT /usr/share/texlive/texmf-dist/tex/generic/xypic/xycurve.tex
-INPUT /usr/share/texlive/texmf-dist/tex/generic/xypic/xypdf-cu.tex
-INPUT /usr/share/texlive/texmf-dist/tex/generic/xypic/xymatrix.tex
-INPUT /usr/share/texlive/texmf-dist/tex/generic/xypic/xymatrix.tex
-INPUT /usr/share/texlive/texmf-dist/tex/generic/xypic/xyarrow.tex
-INPUT /usr/share/texlive/texmf-dist/tex/generic/xypic/xyarrow.tex
-INPUT /usr/share/texlive/texmf-dist/tex/generic/soul/soul.sty
-INPUT /usr/share/texlive/texmf-dist/tex/generic/soul/soul.sty
-INPUT /usr/share/texlive/texmf-dist/tex/generic/soul/soul.sty
-INPUT /usr/share/texlive/texmf-dist/tex/generic/soul/soul.sty
-INPUT /usr/share/texlive/texmf-dist/tex/generic/soul/soul.sty
-INPUT /usr/share/texlive/texmf-dist/tex/generic/soul/soul.sty
-INPUT /usr/share/texlive/texmf-dist/tex/generic/soul/soul.sty
-INPUT /usr/share/texlive/texmf-dist/tex/generic/soul/soul.sty
-INPUT /usr/share/texlive/texmf-dist/tex/generic/soul/soul.sty
-INPUT /usr/share/texlive/texmf-dist/tex/generic/soul/soul.sty
-INPUT /usr/share/texlive/texmf-dist/tex/generic/soul/soul.sty
-INPUT /usr/share/texlive/texmf-dist/fonts/tfm/jknappen/ec/ectt1000.tfm
-INPUT /usr/share/texlive/texmf-dist/tex/latex/tools/verbatim.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/tools/verbatim.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/tools/verbatim.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/tools/verbatim.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/tools/verbatim.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/tools/verbatim.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/tools/verbatim.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/tools/verbatim.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/tools/verbatim.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/tools/verbatim.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/tools/verbatim.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/cite/chapterbib.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/cite/chapterbib.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/cite/chapterbib.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/cite/chapterbib.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/cite/chapterbib.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/cite/chapterbib.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/cite/chapterbib.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/cite/chapterbib.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/cite/chapterbib.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/cite/chapterbib.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/cite/chapterbib.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/tools/enumerate.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/tools/enumerate.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/tools/enumerate.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/tools/enumerate.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/tools/enumerate.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/tools/enumerate.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/tools/enumerate.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/tools/enumerate.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/tools/enumerate.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/tools/enumerate.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/tools/enumerate.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/wrapfig/wrapfig.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/wrapfig/wrapfig.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/wrapfig/wrapfig.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/wrapfig/wrapfig.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/wrapfig/wrapfig.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/wrapfig/wrapfig.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/wrapfig/wrapfig.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/wrapfig/wrapfig.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/wrapfig/wrapfig.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/wrapfig/wrapfig.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/wrapfig/wrapfig.sty
-INPUT /home/dmitriy/.texlive2021/texmf-var/fonts/tfm/lh/lh-t2a/larm1095.tfm
-INPUT /usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
-INPUT /usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
-INPUT /usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
-INPUT /usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
-INPUT /usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
-INPUT /usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
-INPUT /usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
-INPUT /usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
-INPUT /usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
-INPUT /usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
-INPUT /usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
-INPUT ./main.aux
-INPUT main.aux
+INPUT C:\Users\The Machine\AppData\Local\Programs\MiKTeX\tex\latex\psnfss\pifont.sty
+INPUT C:\Users\The Machine\AppData\Local\Programs\MiKTeX\tex\latex\psnfss\pifont.sty
+INPUT C:\Users\The Machine\AppData\Local\Programs\MiKTeX\tex\latex\psnfss\upzd.fd
+INPUT C:\Users\The Machine\AppData\Local\Programs\MiKTeX\tex\latex\psnfss\upzd.fd
+INPUT C:\Users\The Machine\AppData\Local\Programs\MiKTeX\tex\latex\psnfss\upzd.fd
+INPUT C:\Users\The Machine\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\zapfding\pzdr.tfm
+INPUT C:\Users\The Machine\AppData\Local\Programs\MiKTeX\tex\latex\psnfss\upsy.fd
+INPUT C:\Users\The Machine\AppData\Local\Programs\MiKTeX\tex\latex\psnfss\upsy.fd
+INPUT C:\Users\The Machine\AppData\Local\Programs\MiKTeX\tex\latex\psnfss\upsy.fd
+INPUT C:\Users\The Machine\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\symbol\psyr.tfm
+INPUT C:\Users\The Machine\AppData\Local\Programs\MiKTeX\tex\latex\tools\bm.sty
+INPUT C:\Users\The Machine\AppData\Local\Programs\MiKTeX\tex\latex\tools\bm.sty
+INPUT C:\Users\The Machine\AppData\Local\Programs\MiKTeX\tex\latex\tools\array.sty
+INPUT C:\Users\The Machine\AppData\Local\Programs\MiKTeX\tex\latex\tools\array.sty
+INPUT C:\Users\The Machine\AppData\Local\Programs\MiKTeX\tex\latex\tools\dcolumn.sty
+INPUT C:\Users\The Machine\AppData\Local\Programs\MiKTeX\tex\latex\tools\dcolumn.sty
+INPUT C:\Users\The Machine\AppData\Local\Programs\MiKTeX\tex\latex\tools\hhline.sty
+INPUT C:\Users\The Machine\AppData\Local\Programs\MiKTeX\tex\latex\tools\hhline.sty
+INPUT C:\Users\The Machine\AppData\Local\Programs\MiKTeX\tex\latex\multirow\multirow.sty
+INPUT C:\Users\The Machine\AppData\Local\Programs\MiKTeX\tex\latex\multirow\multirow.sty
+INPUT C:\Users\The Machine\AppData\Local\Programs\MiKTeX\tex\latex\graphics\graphicx.sty
+INPUT C:\Users\The Machine\AppData\Local\Programs\MiKTeX\tex\latex\graphics\graphicx.sty
+INPUT C:\Users\The Machine\AppData\Local\Programs\MiKTeX\tex\latex\graphics\keyval.sty
+INPUT C:\Users\The Machine\AppData\Local\Programs\MiKTeX\tex\latex\graphics\keyval.sty
+INPUT C:\Users\The Machine\AppData\Local\Programs\MiKTeX\tex\latex\graphics\graphics.sty
+INPUT C:\Users\The Machine\AppData\Local\Programs\MiKTeX\tex\latex\graphics\graphics.sty
+INPUT C:\Users\The Machine\AppData\Local\Programs\MiKTeX\tex\latex\graphics\trig.sty
+INPUT C:\Users\The Machine\AppData\Local\Programs\MiKTeX\tex\latex\graphics\trig.sty
+INPUT C:\Users\The Machine\AppData\Local\Programs\MiKTeX\tex\latex\graphics-cfg\graphics.cfg
+INPUT C:\Users\The Machine\AppData\Local\Programs\MiKTeX\tex\latex\graphics-cfg\graphics.cfg
+INPUT C:\Users\The Machine\AppData\Local\Programs\MiKTeX\tex\latex\graphics-cfg\graphics.cfg
+INPUT C:\Users\The Machine\AppData\Local\Programs\MiKTeX\tex\latex\graphics-def\pdftex.def
+INPUT C:\Users\The Machine\AppData\Local\Programs\MiKTeX\tex\latex\graphics-def\pdftex.def
+INPUT C:\Users\The Machine\AppData\Local\Programs\MiKTeX\tex\latex\graphics-def\pdftex.def
+INPUT C:\Users\The Machine\AppData\Local\Programs\MiKTeX\tex\latex\graphics\rotating.sty
+INPUT C:\Users\The Machine\AppData\Local\Programs\MiKTeX\tex\latex\graphics\rotating.sty
+INPUT C:\Users\The Machine\AppData\Local\Programs\MiKTeX\tex\latex\base\ifthen.sty
+INPUT C:\Users\The Machine\AppData\Local\Programs\MiKTeX\tex\latex\base\ifthen.sty
+INPUT C:\Users\The Machine\AppData\Local\Programs\MiKTeX\tex\latex\tools\calc.sty
+INPUT C:\Users\The Machine\AppData\Local\Programs\MiKTeX\tex\latex\tools\calc.sty
+INPUT C:\Users\The Machine\AppData\Local\Programs\MiKTeX\tex\latex\tools\tabularx.sty
+INPUT C:\Users\The Machine\AppData\Local\Programs\MiKTeX\tex\latex\tools\tabularx.sty
+INPUT C:\Users\The Machine\AppData\Local\Programs\MiKTeX\tex\latex\tools\afterpage.sty
+INPUT C:\Users\The Machine\AppData\Local\Programs\MiKTeX\tex\latex\tools\afterpage.sty
+INPUT C:\Users\The Machine\AppData\Local\Programs\MiKTeX\tex\latex\caption\caption2.sty
+INPUT C:\Users\The Machine\AppData\Local\Programs\MiKTeX\tex\latex\caption\caption2.sty
+INPUT C:\Users\The Machine\AppData\Local\Programs\MiKTeX\tex\latex\caption\caption3.sty
+INPUT C:\Users\The Machine\AppData\Local\Programs\MiKTeX\tex\latex\caption\caption3.sty
+INPUT C:\Users\The Machine\AppData\Local\Programs\MiKTeX\tex\latex\substr\substr.sty
+INPUT C:\Users\The Machine\AppData\Local\Programs\MiKTeX\tex\latex\substr\substr.sty
+INPUT C:\Users\The Machine\AppData\Local\Programs\MiKTeX\tex\latex\amsfonts\eucal.sty
+INPUT C:\Users\The Machine\AppData\Local\Programs\MiKTeX\tex\latex\amsfonts\eucal.sty
+INPUT C:\Users\The Machine\AppData\Local\Programs\MiKTeX\tex\latex\jknappen\mathrsfs.sty
+INPUT C:\Users\The Machine\AppData\Local\Programs\MiKTeX\tex\latex\jknappen\mathrsfs.sty
+INPUT C:\Users\The Machine\AppData\Local\Programs\MiKTeX\tex\latex\oberdiek\hypbmsec.sty
+INPUT C:\Users\The Machine\AppData\Local\Programs\MiKTeX\tex\latex\oberdiek\hypbmsec.sty
+INPUT C:\Users\The Machine\AppData\Local\Programs\MiKTeX\tex\latex\base\latexsym.sty
+INPUT C:\Users\The Machine\AppData\Local\Programs\MiKTeX\tex\latex\base\latexsym.sty
+INPUT C:\Users\The Machine\AppData\Local\Programs\MiKTeX\tex\generic\xypic\xypic.sty
+INPUT C:\Users\The Machine\AppData\Local\Programs\MiKTeX\tex\generic\xypic\xypic.sty
+INPUT C:\Users\The Machine\AppData\Local\Programs\MiKTeX\tex\generic\xypic\xy.sty
+INPUT C:\Users\The Machine\AppData\Local\Programs\MiKTeX\tex\generic\xypic\xy.sty
+INPUT C:\Users\The Machine\AppData\Local\Programs\MiKTeX\tex\generic\xypic\xy.sty
+INPUT C:\Users\The Machine\AppData\Local\Programs\MiKTeX\tex\generic\xypic\xy.tex
+INPUT C:\Users\The Machine\AppData\Local\Programs\MiKTeX\tex\generic\xypic\xyrecat.tex
+INPUT C:\Users\The Machine\AppData\Local\Programs\MiKTeX\tex\generic\xypic\xyidioms.tex
+INPUT C:\Users\The Machine\AppData\Local\Programs\MiKTeX\fonts\tfm\public\xypic\xydash10.tfm
+INPUT C:\Users\The Machine\AppData\Local\Programs\MiKTeX\fonts\tfm\public\xypic\xyatip10.tfm
+INPUT C:\Users\The Machine\AppData\Local\Programs\MiKTeX\fonts\tfm\public\xypic\xybtip10.tfm
+INPUT C:\Users\The Machine\AppData\Local\Programs\MiKTeX\fonts\tfm\public\xypic\xybsql10.tfm
+INPUT C:\Users\The Machine\AppData\Local\Programs\MiKTeX\fonts\tfm\public\xypic\xycirc10.tfm
+INPUT C:\Users\The Machine\AppData\Local\Programs\MiKTeX\tex\generic\iftex\ifpdf.sty
+INPUT C:\Users\The Machine\AppData\Local\Programs\MiKTeX\tex\generic\iftex\ifpdf.sty
+INPUT C:\Users\The Machine\AppData\Local\Programs\MiKTeX\tex\generic\iftex\iftex.sty
+INPUT C:\Users\The Machine\AppData\Local\Programs\MiKTeX\tex\generic\iftex\iftex.sty
+INPUT C:\Users\The Machine\AppData\Local\Programs\MiKTeX\tex\generic\xypic\xypdf.tex
+INPUT C:\Users\The Machine\AppData\Local\Programs\MiKTeX\tex\generic\xypic\xypdf.tex
+INPUT C:\Users\The Machine\AppData\Local\Programs\MiKTeX\tex\generic\xypic\xyv2.tex
+INPUT C:\Users\The Machine\AppData\Local\Programs\MiKTeX\tex\generic\xypic\xyv2.tex
+INPUT C:\Users\The Machine\AppData\Local\Programs\MiKTeX\tex\generic\xypic\xyframe.tex
+INPUT C:\Users\The Machine\AppData\Local\Programs\MiKTeX\tex\generic\xypic\xyframe.tex
+INPUT C:\Users\The Machine\AppData\Local\Programs\MiKTeX\tex\generic\xypic\xypdf-fr.tex
+INPUT C:\Users\The Machine\AppData\Local\Programs\MiKTeX\tex\generic\xypic\xycurve.tex
+INPUT C:\Users\The Machine\AppData\Local\Programs\MiKTeX\tex\generic\xypic\xycurve.tex
+INPUT C:\Users\The Machine\AppData\Local\Programs\MiKTeX\tex\generic\xypic\xypdf-cu.tex
+INPUT C:\Users\The Machine\AppData\Local\Programs\MiKTeX\tex\generic\xypic\xymatrix.tex
+INPUT C:\Users\The Machine\AppData\Local\Programs\MiKTeX\tex\generic\xypic\xymatrix.tex
+INPUT C:\Users\The Machine\AppData\Local\Programs\MiKTeX\tex\generic\xypic\xyarrow.tex
+INPUT C:\Users\The Machine\AppData\Local\Programs\MiKTeX\tex\generic\xypic\xyarrow.tex
+INPUT C:\Users\The Machine\AppData\Local\Programs\MiKTeX\tex\generic\soul\soul.sty
+INPUT C:\Users\The Machine\AppData\Local\Programs\MiKTeX\tex\generic\soul\soul.sty
+INPUT C:\Users\The Machine\AppData\Local\Programs\MiKTeX\tex\generic\soul\soul-ori.sty
+INPUT C:\Users\The Machine\AppData\Local\Programs\MiKTeX\tex\generic\soul\soul-ori.sty
+INPUT C:\Users\The Machine\AppData\Local\Programs\MiKTeX\fonts\tfm\jknappen\ec\ectt1000.tfm
+INPUT C:\Users\The Machine\AppData\Local\Programs\MiKTeX\tex\generic\infwarerr\infwarerr.sty
+INPUT C:\Users\The Machine\AppData\Local\Programs\MiKTeX\tex\generic\infwarerr\infwarerr.sty
+INPUT C:\Users\The Machine\AppData\Local\Programs\MiKTeX\tex\generic\etexcmds\etexcmds.sty
+INPUT C:\Users\The Machine\AppData\Local\Programs\MiKTeX\tex\generic\etexcmds\etexcmds.sty
+INPUT C:\Users\The Machine\AppData\Local\Programs\MiKTeX\tex\latex\tools\verbatim.sty
+INPUT C:\Users\The Machine\AppData\Local\Programs\MiKTeX\tex\latex\tools\verbatim.sty
+INPUT C:\Users\The Machine\AppData\Local\Programs\MiKTeX\tex\latex\cite\chapterbib.sty
+INPUT C:\Users\The Machine\AppData\Local\Programs\MiKTeX\tex\latex\cite\chapterbib.sty
+INPUT C:\Users\The Machine\AppData\Local\Programs\MiKTeX\tex\latex\tools\enumerate.sty
+INPUT C:\Users\The Machine\AppData\Local\Programs\MiKTeX\tex\latex\tools\enumerate.sty
+INPUT C:\Users\The Machine\AppData\Local\Programs\MiKTeX\tex\latex\wrapfig\wrapfig.sty
+INPUT C:\Users\The Machine\AppData\Local\Programs\MiKTeX\tex\latex\wrapfig\wrapfig.sty
+INPUT C:\Users\The Machine\AppData\Local\MiKTeX\fonts\tfm\lh\lh-t2a\larm1095.tfm
+INPUT C:\Users\The Machine\AppData\Local\Programs\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
+INPUT C:\Users\The Machine\AppData\Local\Programs\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
+INPUT .\main.aux
+INPUT .\main.aux
 INPUT main.aux
 OUTPUT main.aux
-INPUT /usr/share/texlive/texmf-dist/tex/latex/ucs/ucsencs.def
-INPUT /usr/share/texlive/texmf-dist/tex/latex/ucs/ucsencs.def
-INPUT /usr/share/texlive/texmf-dist/tex/latex/ucs/ucsencs.def
-INPUT /usr/share/texlive/texmf-dist/tex/latex/ucs/ucsencs.def
-INPUT /usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
-INPUT /usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
-INPUT /usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
-INPUT /usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
-INPUT /usr/share/texlive/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
-INPUT /usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
-INPUT /usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
-INPUT /usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
-INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmr10.tfm
-INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmr8.tfm
-INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmr6.tfm
-INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmmi10.tfm
-INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmmi8.tfm
-INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmmi6.tfm
-INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmsy10.tfm
-INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmsy8.tfm
-INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmsy6.tfm
-INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmex10.tfm
-INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex8.tfm
-INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm
-INPUT /usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
-INPUT /usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
-INPUT /usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
-INPUT /usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
-INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam10.tfm
-INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam10.tfm
-INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam7.tfm
-INPUT /usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
-INPUT /usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
-INPUT /usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
-INPUT /usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
-INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm10.tfm
-INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm10.tfm
-INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm7.tfm
-INPUT /home/dmitriy/.texlive2021/texmf-var/fonts/tfm/lh/lh-t2a/larm0800.tfm
-INPUT /home/dmitriy/.texlive2021/texmf-var/fonts/tfm/lh/lh-t2a/larm0600.tfm
-INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmbx10.tfm
-INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmbx8.tfm
-INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmbx6.tfm
-INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmmib10.tfm
-INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmmib8.tfm
-INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmmib6.tfm
-INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmbsy10.tfm
-INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmbsy8.tfm
-INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmbsy6.tfm
-INPUT /usr/share/texlive/texmf-dist/tex/latex/jknapltx/ursfs.fd
-INPUT /usr/share/texlive/texmf-dist/tex/latex/jknapltx/ursfs.fd
-INPUT /usr/share/texlive/texmf-dist/tex/latex/jknapltx/ursfs.fd
-INPUT /usr/share/texlive/texmf-dist/tex/latex/jknapltx/ursfs.fd
-INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/rsfs/rsfs10.tfm
-INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/rsfs/rsfs10.tfm
-INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/rsfs/rsfs5.tfm
-INPUT /usr/share/texlive/texmf-dist/tex/latex/base/ulasy.fd
-INPUT /usr/share/texlive/texmf-dist/tex/latex/base/ulasy.fd
-INPUT /usr/share/texlive/texmf-dist/tex/latex/base/ulasy.fd
-INPUT /usr/share/texlive/texmf-dist/tex/latex/base/ulasy.fd
-INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/latex-fonts/lasy10.tfm
-INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/latex-fonts/lasy8.tfm
-INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/latex-fonts/lasy6.tfm
-INPUT ./0_Title.tex
-INPUT ./0_Title.tex
-INPUT ./0_Title.tex
+INPUT C:\Users\The Machine\AppData\Local\Programs\MiKTeX\tex\context\base\mkii\supp-pdf.mkii
+INPUT C:\Users\The Machine\AppData\Local\Programs\MiKTeX\tex\context\base\mkii\supp-pdf.mkii
+INPUT C:\Users\The Machine\AppData\Local\Programs\MiKTeX\tex\context\base\mkii\supp-pdf.mkii
+INPUT C:\Users\The Machine\AppData\Local\Programs\MiKTeX\tex\latex\epstopdf-pkg\epstopdf-base.sty
+INPUT C:\Users\The Machine\AppData\Local\Programs\MiKTeX\tex\latex\epstopdf-pkg\epstopdf-base.sty
+INPUT C:\Users\The Machine\AppData\Local\Programs\MiKTeX\tex\latex\00miktex\epstopdf-sys.cfg
+INPUT C:\Users\The Machine\AppData\Local\Programs\MiKTeX\tex\latex\00miktex\epstopdf-sys.cfg
+INPUT C:\Users\The Machine\AppData\Local\Programs\MiKTeX\tex\latex\00miktex\epstopdf-sys.cfg
+INPUT C:\Users\The Machine\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmr10.tfm
+INPUT C:\Users\The Machine\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmr8.tfm
+INPUT C:\Users\The Machine\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmr6.tfm
+INPUT C:\Users\The Machine\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmmi10.tfm
+INPUT C:\Users\The Machine\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmmi8.tfm
+INPUT C:\Users\The Machine\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmmi6.tfm
+INPUT C:\Users\The Machine\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmsy10.tfm
+INPUT C:\Users\The Machine\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmsy8.tfm
+INPUT C:\Users\The Machine\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmsy6.tfm
+INPUT C:\Users\The Machine\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmex10.tfm
+INPUT C:\Users\The Machine\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\cmextra\cmex8.tfm
+INPUT C:\Users\The Machine\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\cmextra\cmex7.tfm
+INPUT C:\Users\The Machine\AppData\Local\Programs\MiKTeX\tex\latex\amsfonts\umsa.fd
+INPUT C:\Users\The Machine\AppData\Local\Programs\MiKTeX\tex\latex\amsfonts\umsa.fd
+INPUT C:\Users\The Machine\AppData\Local\Programs\MiKTeX\tex\latex\amsfonts\umsa.fd
+INPUT C:\Users\The Machine\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\symbols\msam10.tfm
+INPUT C:\Users\The Machine\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\symbols\msam10.tfm
+INPUT C:\Users\The Machine\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\symbols\msam7.tfm
+INPUT C:\Users\The Machine\AppData\Local\Programs\MiKTeX\tex\latex\amsfonts\umsb.fd
+INPUT C:\Users\The Machine\AppData\Local\Programs\MiKTeX\tex\latex\amsfonts\umsb.fd
+INPUT C:\Users\The Machine\AppData\Local\Programs\MiKTeX\tex\latex\amsfonts\umsb.fd
+INPUT C:\Users\The Machine\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\symbols\msbm10.tfm
+INPUT C:\Users\The Machine\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\symbols\msbm10.tfm
+INPUT C:\Users\The Machine\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\symbols\msbm7.tfm
+INPUT C:\Users\The Machine\AppData\Local\MiKTeX\fonts\tfm\lh\lh-t2a\larm0800.tfm
+INPUT C:\Users\The Machine\AppData\Local\MiKTeX\fonts\tfm\lh\lh-t2a\larm0600.tfm
+INPUT C:\Users\The Machine\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmbx10.tfm
+INPUT C:\Users\The Machine\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmbx8.tfm
+INPUT C:\Users\The Machine\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmbx6.tfm
+INPUT C:\Users\The Machine\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmmib10.tfm
+INPUT C:\Users\The Machine\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\cmextra\cmmib8.tfm
+INPUT C:\Users\The Machine\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\cmextra\cmmib6.tfm
+INPUT C:\Users\The Machine\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmbsy10.tfm
+INPUT C:\Users\The Machine\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\cmextra\cmbsy8.tfm
+INPUT C:\Users\The Machine\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\cmextra\cmbsy6.tfm
+INPUT C:\Users\The Machine\AppData\Local\Programs\MiKTeX\tex\latex\jknappen\ursfs.fd
+INPUT C:\Users\The Machine\AppData\Local\Programs\MiKTeX\tex\latex\jknappen\ursfs.fd
+INPUT C:\Users\The Machine\AppData\Local\Programs\MiKTeX\tex\latex\jknappen\ursfs.fd
+INPUT C:\Users\The Machine\AppData\Local\MiKTeX\fonts\tfm\public\rsfs\rsfs10.tfm
+INPUT C:\Users\The Machine\AppData\Local\MiKTeX\fonts\tfm\public\rsfs\rsfs10.tfm
+INPUT C:\Users\The Machine\AppData\Local\MiKTeX\fonts\tfm\public\rsfs\rsfs5.tfm
+INPUT C:\Users\The Machine\AppData\Local\Programs\MiKTeX\tex\latex\base\ulasy.fd
+INPUT C:\Users\The Machine\AppData\Local\Programs\MiKTeX\tex\latex\base\ulasy.fd
+INPUT C:\Users\The Machine\AppData\Local\Programs\MiKTeX\tex\latex\base\ulasy.fd
+INPUT C:\Users\The Machine\AppData\Local\Programs\MiKTeX\fonts\tfm\public\latex-fonts\lasy10.tfm
+INPUT C:\Users\The Machine\AppData\Local\Programs\MiKTeX\fonts\tfm\public\latex-fonts\lasy8.tfm
+INPUT C:\Users\The Machine\AppData\Local\Programs\MiKTeX\fonts\tfm\public\latex-fonts\lasy6.tfm
+INPUT .\0_Title.tex
+INPUT .\0_Title.tex
+INPUT .\0_Title.tex
+INPUT .\0_Title.tex
 INPUT 0_Title.tex
-INPUT ./0_Title.tex
-INPUT ./0_Title.tex
-INPUT 0_Title.tex
-INPUT /usr/share/texlive/texmf-dist/tex/latex/ucs/data/uni-4.def
-INPUT /usr/share/texlive/texmf-dist/tex/latex/ucs/data/uni-4.def
-INPUT /usr/share/texlive/texmf-dist/tex/latex/ucs/data/uni-4.def
-INPUT /usr/share/texlive/texmf-dist/tex/latex/ucs/data/uni-4.def
-INPUT /home/dmitriy/.texlive2021/texmf-var/fonts/tfm/lh/lh-t2a/larm1728.tfm
-INPUT /home/dmitriy/.texlive2021/texmf-var/fonts/tfm/lh/lh-t2a/larm1440.tfm
-INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmr12.tfm
-INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmmi12.tfm
-INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmsy10.tfm
-INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmex10.tfm
-INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm
-INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam10.tfm
-INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam10.tfm
-INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam7.tfm
-INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm10.tfm
-INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm10.tfm
-INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm7.tfm
-INPUT /home/dmitriy/.texlive2021/texmf-var/fonts/tfm/lh/lh-t2a/larm0700.tfm
-INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm
-INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmbx10.tfm
-INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmbx7.tfm
-INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmmib10.tfm
-INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmmib10.tfm
-INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmmib7.tfm
-INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmbsy10.tfm
-INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmbsy10.tfm
-INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmbsy7.tfm
-INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/rsfs/rsfs10.tfm
-INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/rsfs/rsfs10.tfm
-INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/rsfs/rsfs7.tfm
-INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/latex-fonts/lasy10.tfm
-INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/latex-fonts/lasy10.tfm
-INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/latex-fonts/lasy7.tfm
-INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm
-INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam5.tfm
-INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm5.tfm
-INPUT /home/dmitriy/.texlive2021/texmf-var/fonts/tfm/lh/lh-t2a/larm0500.tfm
-INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmbx5.tfm
-INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmmib5.tfm
-INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmbsy5.tfm
-INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/rsfs/rsfs5.tfm
-INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/latex-fonts/lasy5.tfm
-INPUT /home/dmitriy/.texlive2021/texmf-var/fonts/tfm/lh/lh-t2a/larm0900.tfm
-INPUT ./1_Introduction.tex
-INPUT ./1_Introduction.tex
-INPUT ./1_Introduction.tex
-INPUT 1_Introduction.tex
-INPUT ./1_Introduction.tex
-INPUT ./1_Introduction.tex
+INPUT C:\Users\The Machine\AppData\Local\MiKTeX\fonts\tfm\lh\lh-t2a\larm1728.tfm
+INPUT C:\Users\The Machine\AppData\Local\MiKTeX\fonts\tfm\lh\lh-t2a\larm1440.tfm
+INPUT C:\Users\The Machine\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmr12.tfm
+INPUT C:\Users\The Machine\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmmi12.tfm
+INPUT C:\Users\The Machine\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmsy10.tfm
+INPUT C:\Users\The Machine\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmex10.tfm
+INPUT C:\Users\The Machine\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\cmextra\cmex7.tfm
+INPUT C:\Users\The Machine\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\symbols\msam10.tfm
+INPUT C:\Users\The Machine\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\symbols\msam10.tfm
+INPUT C:\Users\The Machine\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\symbols\msam7.tfm
+INPUT C:\Users\The Machine\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\symbols\msbm10.tfm
+INPUT C:\Users\The Machine\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\symbols\msbm10.tfm
+INPUT C:\Users\The Machine\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\symbols\msbm7.tfm
+INPUT C:\Users\The Machine\AppData\Local\MiKTeX\fonts\tfm\lh\lh-t2a\larm0700.tfm
+INPUT C:\Users\The Machine\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmbx12.tfm
+INPUT C:\Users\The Machine\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmbx10.tfm
+INPUT C:\Users\The Machine\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmbx7.tfm
+INPUT C:\Users\The Machine\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmmib10.tfm
+INPUT C:\Users\The Machine\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmmib10.tfm
+INPUT C:\Users\The Machine\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\cmextra\cmmib7.tfm
+INPUT C:\Users\The Machine\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmbsy10.tfm
+INPUT C:\Users\The Machine\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmbsy10.tfm
+INPUT C:\Users\The Machine\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\cmextra\cmbsy7.tfm
+INPUT C:\Users\The Machine\AppData\Local\MiKTeX\fonts\tfm\public\rsfs\rsfs10.tfm
+INPUT C:\Users\The Machine\AppData\Local\MiKTeX\fonts\tfm\public\rsfs\rsfs10.tfm
+INPUT C:\Users\The Machine\AppData\Local\MiKTeX\fonts\tfm\public\rsfs\rsfs7.tfm
+INPUT C:\Users\The Machine\AppData\Local\Programs\MiKTeX\fonts\tfm\public\latex-fonts\lasy10.tfm
+INPUT C:\Users\The Machine\AppData\Local\Programs\MiKTeX\fonts\tfm\public\latex-fonts\lasy10.tfm
+INPUT C:\Users\The Machine\AppData\Local\Programs\MiKTeX\fonts\tfm\public\latex-fonts\lasy7.tfm
+INPUT C:\Users\The Machine\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\cmextra\cmex7.tfm
+INPUT C:\Users\The Machine\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\symbols\msam5.tfm
+INPUT C:\Users\The Machine\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\symbols\msbm5.tfm
+INPUT C:\Users\The Machine\AppData\Local\MiKTeX\fonts\tfm\lh\lh-t2a\larm0500.tfm
+INPUT C:\Users\The Machine\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmbx5.tfm
+INPUT C:\Users\The Machine\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\cmextra\cmmib5.tfm
+INPUT C:\Users\The Machine\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\cmextra\cmbsy5.tfm
+INPUT C:\Users\The Machine\AppData\Local\MiKTeX\fonts\tfm\public\rsfs\rsfs5.tfm
+INPUT C:\Users\The Machine\AppData\Local\Programs\MiKTeX\fonts\tfm\public\latex-fonts\lasy5.tfm
+INPUT C:\Users\The Machine\AppData\Local\MiKTeX\fonts\tfm\lh\lh-t2a\larm0900.tfm
+INPUT .\1_Introduction.tex
+INPUT .\1_Introduction.tex
+INPUT .\1_Introduction.tex
+INPUT .\1_Introduction.tex
 INPUT 1_Introduction.tex
 OUTPUT main.pdf
-INPUT /var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map
+INPUT C:\Users\The Machine\AppData\Local\MiKTeX\fonts\map\pdftex\pdftex.map
 INPUT main.aux
-INPUT /usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-t2a.enc
-INPUT /usr/share/texmf/fonts/type1/public/cm-super/sfrm0700.pfb
-INPUT /usr/share/texmf/fonts/type1/public/cm-super/sfrm1000.pfb
-INPUT /usr/share/texmf/fonts/type1/public/cm-super/sfrm1095.pfb
-INPUT /usr/share/texmf/fonts/type1/public/cm-super/sfrm1440.pfb
-INPUT /usr/share/texmf/fonts/type1/public/cm-super/sfrm1728.pfb
+INPUT C:\Users\The Machine\AppData\Local\MiKTeX\fonts\pk\ljfour\lh\lh-t2a\dpi600\larm1095.pk
+INPUT C:\Users\The Machine\AppData\Local\MiKTeX\fonts\pk\ljfour\lh\lh-t2a\dpi600\larm1095.pk
+INPUT C:\Users\The Machine\AppData\Local\MiKTeX\fonts\pk\ljfour\lh\lh-t2a\dpi600\larm0700.pk
+INPUT C:\Users\The Machine\AppData\Local\MiKTeX\fonts\pk\ljfour\lh\lh-t2a\dpi600\larm0700.pk
+INPUT C:\Users\The Machine\AppData\Local\MiKTeX\fonts\pk\ljfour\lh\lh-t2a\dpi600\larm1000.pk
+INPUT C:\Users\The Machine\AppData\Local\MiKTeX\fonts\pk\ljfour\lh\lh-t2a\dpi600\larm1000.pk
+INPUT C:\Users\The Machine\AppData\Local\MiKTeX\fonts\pk\ljfour\lh\lh-t2a\dpi600\larm1440.pk
+INPUT C:\Users\The Machine\AppData\Local\MiKTeX\fonts\pk\ljfour\lh\lh-t2a\dpi600\larm1440.pk
+INPUT C:\Users\The Machine\AppData\Local\MiKTeX\fonts\pk\ljfour\lh\lh-t2a\dpi600\larm1728.pk
+INPUT C:\Users\The Machine\AppData\Local\MiKTeX\fonts\pk\ljfour\lh\lh-t2a\dpi600\larm1728.pk
