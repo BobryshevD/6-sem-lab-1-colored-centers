@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1740219343 "/home/dmitriy/Рабочий стол/Учёба/лабы 6 семестр/Лаба центры окраски/Тех-файлы/main.tex" "main.pdf" "main" 1740219344
+["pdflatex"] 1740224581 "/home/dmitriy/Рабочий стол/Учёба/лабы 6 семестр/Лаба центры окраски/Тех-файлы/main.tex" "main.pdf" "main" 1740224582
   "/etc/texmf/web2c/texmf.cnf" 1693993983 475 c0e671620eb5563b2130f56340a5fde8 ""
   "/home/dmitriy/.texlive2021/texmf-var/fonts/tfm/lh/lh-t2a/larm0500.tfm" 1716199841 3252 bc0f8cc163ba94bbce20e59f671a255d ""
   "/home/dmitriy/.texlive2021/texmf-var/fonts/tfm/lh/lh-t2a/larm0600.tfm" 1693994432 3248 7c0b9d76a2cd84ed06764a4c6eea5de4 ""
@@ -10,7 +10,7 @@
   "/home/dmitriy/.texlive2021/texmf-var/fonts/tfm/lh/lh-t2a/larm1095.tfm" 1716199837 3264 ead613d557baebcc53cf028c9c92d927 ""
   "/home/dmitriy/.texlive2021/texmf-var/fonts/tfm/lh/lh-t2a/larm1440.tfm" 1693994417 3256 3daaa33cf35cf3f354983aa3214ecd7f ""
   "/home/dmitriy/.texlive2021/texmf-var/fonts/tfm/lh/lh-t2a/larm1728.tfm" 1693994423 3252 92d08740ce00199d6cf9ff4aaada81d1 ""
-  "/home/dmitriy/Рабочий стол/Учёба/лабы 6 семестр/Лаба центры окраски/Тех-файлы/main.tex" 1740219342 330 f62a6996139a490dc0e296d81dacec93 ""
+  "/home/dmitriy/Рабочий стол/Учёба/лабы 6 семестр/Лаба центры окраски/Тех-файлы/main.tex" 1740224581 329 5f75aee8d4443510ea95fbb996733e90 ""
   "/usr/share/texlive/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/adobe/symbol/psyr.tfm" 1136768653 1408 5937f58aa508ea2cea4901c07d10f5fe ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/adobe/zapfding/pzdr.tfm" 1136768653 1528 f853c4d1b4e0550255e02831fdc8496f ""
@@ -162,8 +162,8 @@
   "1_Introduction.tex" 1740219342 26 77003ef2f054df8e5215c5abd87300a7 ""
   "literat.sty" 1740146863 164 39a8902336686aec57f606018276dfd9 ""
   "ljm.sty" 1740159740 15985 3771bbcc8cfd9f2731c1e1e4d39afee2 ""
-  "main.aux" 1740219344 379 d89c8d37a1c0025d23243962f05b07f9 "pdflatex"
-  "main.tex" 1740219342 330 f62a6996139a490dc0e296d81dacec93 ""
+  "main.aux" 1740224582 379 d89c8d37a1c0025d23243962f05b07f9 "pdflatex"
+  "main.tex" 1740224581 329 5f75aee8d4443510ea95fbb996733e90 ""
   (generated)
   "main.aux"
   "main.log"
