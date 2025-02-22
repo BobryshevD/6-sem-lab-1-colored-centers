@@ -19,46 +19,48 @@ def func(x, Г_1, nu_01, h_01, Г_2, nu_02, h_02):
 
 
 for dir in dirs:
-    I = []
-    lamd = []
-    nu = []
+    if float(dir.replace('.csv', ''))+273 < 200:
+        I = []
+        lamd = []
+        nu = []
 
-    file = open('Спектры/' + dir)
-    f = file.readlines()
-    f.remove(f[0])
-    f.remove(f[0])
-    #print(f)
-    for i in range(0, len(f)):
-        f[i] = f[i].split()
-        if 497 < (c/float(f[i][0])*10**9/10**12) < 502: #ограничение по частоте
-            I.append(float(f[i][1]))
-            lamd.append(float(f[i][0]))
-            nu.append(c/float(f[i][0])*10**9/10**12) #частота в ТГц
+        file = open('Спектры/' + dir)
+        f = file.readlines()
+        f.remove(f[0])
+        f.remove(f[0])
+        #print(f)
+        for i in range(0, len(f)):
+            f[i] = f[i].split()
+            if (497.3 < (c/float(f[i][0])*10**9/10**12) < 499.8): #ограничение по частоте и по
+                I.append(float(f[i][1]))
+                lamd.append(float(f[i][0]))
+                nu.append(c/float(f[i][0])*10**9/10**12) #частота в ТГц
 
-    I_max = max(I)
-    for i in range(len(I)):
-        I[i] = I[i]/I_max
+        I_max = max(I)
+        for i in range(len(I)):
+            I[i] = I[i]/I_max
 
-    popt, pcov = sp.curve_fit(func, nu, I, method='dogbox', bounds=([-np.inf, -np.inf, -np.inf, -np.inf, -np.inf, -np.inf],
-                                                                 [np.inf, np.inf, np.inf, np.inf, np.inf, np.inf]), maxfev=100000
-                              , p0 = [1, 498, 1, 1, 499, 1])
-    # print(popt)
-    # # #print(pcov)
+        popt, pcov = sp.curve_fit(func, nu, I, method='dogbox', bounds=([-np.inf, 497, -np.inf, -np.inf, 497, -np.inf],
+                                                                    [np.inf, 500, np.inf, np.inf, 500, np.inf]), maxfev=100000
+                                , p0 = [1, 498, 1, 1, 499, 1])
+        print(popt)
+        # # #print(pcov)
 
-    # plt.scatter(nu, I, s=8, color='Black')
-    # plt.plot(nu, func(nu, *popt))
-    # plt.xlabel('Частота, ГГц')
-    # plt.ylabel('Интенсивность, отн. ед.')
-    # plt.show()        
+        # plt.scatter(nu, I, s=8, color='Black')
+        # plt.plot(nu, func(nu, *popt))
+        # plt.xlabel('Частота, ГГц')
+        # plt.ylabel('Интенсивность, отн. ед.')
+        # plt.title(float(dir.replace('.csv', ''))+273)
+        # plt.show()        
 
-    file.close()
+        file.close()
 
-    T.append(float(dir.replace('.csv', ''))+273)
-    frequence1.append(popt[1])
-    frequence2.append(popt[4])
-    width1.append(popt[2])
-    width2.append(popt[5])
-    
+        T.append(float(dir.replace('.csv', ''))+273)
+        frequence1.append(popt[1])
+        frequence2.append(popt[4])
+        width1.append(popt[2])
+        width2.append(popt[5])
+        
 frequence_left = []
 frequence_right = []
 width_left = []
@@ -82,8 +84,21 @@ for i in range(len(frequence1)):
 #     width_right_2.append(width_right[i]**(1/3))
 #plt.scatter(T, width_right)
 
-plt.scatter(T, width_right)
-plt.scatter(T, width_left)
+delta_frequence = []
+for i in range(len(frequence_left)):
+    delta_frequence.append(frequence_right[i]-frequence_left[i])
+
+p, v = np.polyfit(T, delta_frequence, deg=3, cov=True)
+
+print(p[0], v[0][0]**2)
+x = np.linspace(140, 200, 10000)
+y = p[0]*x**3 + p[1]*x**2 + p[2]*x + p[3] 
+
+#plt.scatter(T, width_right)
+plt.scatter(T, delta_frequence)
+plt.plot(x, y)
+plt.xlabel('T, К')
+plt.ylabel('Ширина пика')
 
 plt.show()
 
