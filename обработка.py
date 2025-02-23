@@ -12,14 +12,23 @@ frequence1 = []
 frequence2 = []
 width1 = []
 width2 = []
+frequence = []
+width = []
+
 
 
 def func(x, Г_1, nu_01, h_01, Г_2, nu_02, h_02):
-    return Г_1/((x-nu_01)**2 + h_01**2) + Г_2/((x-nu_02)**2 + h_02**2)
+    return Г_1/((x-nu_01)**2 + h_01**2) + Г_2/((x-nu_02)**2 + h_02**2)  #2 лоренциана
 
+
+def func1(x, Г_1, nu_01, h_01):
+    return Г_1/((x-nu_01)**2 + h_01**2)  #1 лоренциан
+
+def func2(x, a, b):
+    return a*x**3 + b
 
 for dir in dirs:
-    if float(dir.replace('.csv', ''))+273 < 200:
+    if float(dir.replace('.csv', ''))+273 < 210:
         I = []
         lamd = []
         nu = []
@@ -60,24 +69,82 @@ for dir in dirs:
         frequence2.append(popt[4])
         width1.append(popt[2])
         width2.append(popt[5])
+    
+for dir in dirs:
+    if float(dir.replace('.csv', ''))+273 >= 240:
+        I = []
+        lamd = []
+        nu = []
+
+        file = open('Спектры/' + dir)
+        f = file.readlines()
+        f.remove(f[0])
+        f.remove(f[0])
+        #print(f)
+        for i in range(0, len(f)):
+            f[i] = f[i].split()
+            if (496.2 < (c/float(f[i][0])*10**9/10**12) < 500): #ограничение по частоте и по
+                I.append(float(f[i][1]))
+                lamd.append(float(f[i][0]))
+                nu.append(c/float(f[i][0])*10**9/10**12) #частота в ТГц
+
+        I_max = max(I)
+        for i in range(len(I)):
+            I[i] = I[i]/I_max
+
+        popt, pcov = sp.curve_fit(func1, nu, I, method = 'trf', p0 = [1, 499, 1])
+        print(popt)
+        # # #print(pcov)
+
+        # plt.scatter(nu, I, s=8, color='Black')
+        # plt.plot(nu, func1(nu, *popt))
+        # plt.xlabel('Частота, ГГц')
+        # plt.ylabel('Интенсивность, отн. ед.')
+        # plt.title(float(dir.replace('.csv', ''))+273)
+        # plt.show()        
+
+        file.close()
+
+        T.append(float(dir.replace('.csv', ''))+273)
+        frequence.append(popt[1])
+        width.append(popt[2])
         
+    
+        
+        
+
 frequence_left = []
 frequence_right = []
 width_left = []
 width_right = []
+wavelenght_left = []
+wavelenght_right = []
+
 
 for i in range(len(frequence1)):
     if (frequence1[i] < frequence2[i]):
         frequence_left.append(frequence1[i])
+        wavelenght_left.append(c/frequence1[i]/10**(12)*10**9)
         width_left.append(width1[i])
         frequence_right.append(frequence2[i])
         width_right.append(width2[i])
+        wavelenght_right.append(c/frequence2[i]/10**(12)*10**9)
     else:
+        wavelenght_left.append(c/frequence2[i]/10**(12)*10**9)
         frequence_left.append(frequence2[i])
         width_left.append(width2[i])
         frequence_right.append(frequence1[i])
         width_right.append(width1[i])
+        wavelenght_right.append(c/frequence1[i]/10**(12)*10**9)
 
+
+
+for i in range(len(frequence)):
+    frequence_left.append(frequence[i])
+    frequence_right.append(frequence[i])
+    width_left.append(width[i])
+    width_right.append(width[i])
+    
 
 # width_right_2 = []
 # for i in range(len(width_right)):
@@ -88,15 +155,16 @@ delta_frequence = []
 for i in range(len(frequence_left)):
     delta_frequence.append(frequence_right[i]-frequence_left[i])
 
-p, v = np.polyfit(T, delta_frequence, deg=3, cov=True)
 
+x = np.linspace(0, 300, 10000)
+
+p, v = sp.curve_fit(func2, T, width_left)
+
+#print(T, width_right)
 print(p[0], v[0][0]**2)
-x = np.linspace(140, 200, 10000)
-y = p[0]*x**3 + p[1]*x**2 + p[2]*x + p[3] 
-
 #plt.scatter(T, width_right)
-plt.scatter(T, delta_frequence)
-plt.plot(x, y)
+plt.scatter(T, width_right)
+plt.plot(x, func2(x, *p))
 plt.xlabel('T, К')
 plt.ylabel('Ширина пика')
 
