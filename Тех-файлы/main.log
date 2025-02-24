@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2023.9.6)  23 FEB 2025 19:10
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2023.9.6)  24 FEB 2025 21:39
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -771,29 +771,68 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 <Jahn-Teller effect.jpg, id=2, 1284.8pt x 758.835pt>
 File: Jahn-Teller effect.jpg Graphic file (type jpg)
 <use Jahn-Teller effect.jpg>
-Package pdftex.def Info: Jahn-Teller effect.jpg  used on input line 52.
+Package pdftex.def Info: Jahn-Teller effect.jpg  used on input line 56.
 (pdftex.def)             Requested size: 234.73523pt x 138.63387pt.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-) [1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] [2 <./Energy levels.jpg> <./Jahn-Teller effect.jpg>] (./main.aux)
+) (./2_Electron-phonon interaction.tex [1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
+Underfull \hbox (badness 1092) in paragraph at lines 9--15
+\T2A/cmr/m/up/10.95 фононное взаимодействие не изменяет спинового состояния электрона, поэтому можно
+ []
+
+[2 <./Energy levels.jpg> <./Jahn-Teller effect.jpg>]
+Underfull \hbox (badness 6961) in paragraph at lines 31--38
+\T2A/cmr/m/up/10.95 электрона. Ясно, что определјнное изменение орбитального момента электрона
+ []
+
+
+LaTeX Font Warning: Font shape `T2A/tli/m/sl' undefined
+(Font)              using `T2A/tli/m/it' instead on input line 47.
+
+
+Underfull \hbox (badness 1205) in paragraph at lines 48--55
+\T2A/tli/m/it/10.95 вектором, $\OML/cmm/m/it/10.95 ^^N$ \T2A/tli/m/it/10.95 -- дельта-функция Дирака. Заметим, что данные переходы соответвуют
+ []
+
+
+Underfull \hbox (badness 3449) in paragraph at lines 95--99
+[]\T2A/tli/m/it/10.95 Видно, что в первом порядке возмущения зависимость ширины линии перехода
+ []
+
+
+Underfull \hbox (badness 6608) in paragraph at lines 95--99
+\T2A/tli/m/it/10.95 от температуры квадратична. Однако такое рассмотрение правильно описывает
+ []
+
+[3]
+
+LaTeX Font Warning: Font shape `T2A/tli/m/sl' undefined
+(Font)              using `T2A/tli/m/it' instead on input line 100.
+
+
+Overfull \hbox (9.60074pt too wide) detected at line 125
+[]\OML/cmm/m/it/10.95 ^^M[] \OT1/cmr/m/n/10.95 = 2\OML/cmm/m/it/10.95 ^^Y\U/msb/m/n/10.95 ~[] [][] \OML/cmm/m/it/10.95 n [] [] [][] [][] ^^Z [] ^^Z [] d!
+ []
+
+) [4] (./main.aux)
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 12454 strings out of 478287
- 180628 string characters out of 5849290
- 525311 words of memory out of 5000000
- 30380 multiletter control sequences out of 15000+600000
+ 12478 strings out of 478287
+ 181043 string characters out of 5849290
+ 527482 words of memory out of 5000000
+ 30401 multiletter control sequences out of 15000+600000
  494606 words of font info for 112 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,8n,79p,1979b,738s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-t2a.enc}</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm0700.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm0900.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm1000.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm1095.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm1440.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm1728.pfb>
-Output written on main.pdf (2 pages, 224605 bytes).
+ 75i,9n,79p,1979b,738s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-t2a.enc}</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm10.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm0700.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm0900.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm1000.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm1095.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm1440.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm1728.pfb>
+Output written on main.pdf (4 pages, 288679 bytes).
 PDF statistics:
- 64 PDF objects out of 1000 (max. 8388607)
- 37 compressed objects within 1 object stream
+ 95 PDF objects out of 1000 (max. 8388607)
+ 56 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  11 words of extra memory for PDF output out of 10000 (max. 10000000)
 
