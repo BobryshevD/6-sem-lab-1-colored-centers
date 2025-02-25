@@ -29,7 +29,7 @@ def func1(x, Г_1, nu_01, h_01):
     return Г_1/((x-nu_01)**2 + h_01**2)  #1 лоренциан
 
 def func2(x, a, b):
-    return a*x**3 + b
+    return a*x**4 + b
 
 for dir in dirs:
     if float(dir.replace('.csv', ''))+273 < 210:
@@ -59,13 +59,13 @@ for dir in dirs:
         print(popt)
         # # #print(pcov)
 
-        plt.scatter(nu, I, s=8, color='Black')
-        plt.plot(nu, func(nu, *popt))
-        plt.xlabel('Частота, ТГц')
-        plt.ylabel('Интенсивность, отн. ед.')
-        s = float(dir.replace('.csv', ''))+273
-        plt.title(f'T = {s} К')
-        plt.show()        
+        # plt.scatter(nu, I, s=8, color='Black')
+        # plt.plot(nu, func(nu, *popt))
+        # plt.xlabel('Частота, ТГц')
+        # plt.ylabel('Интенсивность, отн. ед.')
+        # s = float(dir.replace('.csv', ''))+273
+        # plt.title(f'T = {s} К')
+        # plt.show()        
 
         file.close()
 
@@ -103,13 +103,13 @@ for dir in dirs:
         print(popt)
         # # #print(pcov)
 
-        plt.scatter(nu, I, s=8, color='Black')
-        plt.plot(nu, func1(nu, *popt))
-        plt.xlabel('Частота, ТГц')
-        plt.ylabel('Интенсивность, отн. ед.')
-        s = float(dir.replace('.csv', ''))+273
-        plt.title(f'T = {s} К')
-        plt.show()        
+        # plt.scatter(nu, I, s=8, color='Black')
+        # plt.plot(nu, func1(nu, *popt))
+        # plt.xlabel('Частота, ТГц')
+        # plt.ylabel('Интенсивность, отн. ед.')
+        # s = float(dir.replace('.csv', ''))+273
+        # plt.title(f'T = {s} К')
+        # plt.show()        
 
         file.close()
 
@@ -178,9 +178,9 @@ p, v = sp.curve_fit(func2, T, width_left)
 
 print(sigma_width_left)
 #print(T, width_right)
-print(p[0], v[0][0]**(0.5))
+print(p[0], v[0][0]**(0.5), p[1], v[1][1]**0.5)
 #plt.scatter(T, width_right)
-plt.errorbar(T, width_left, sigma_width_left, linestyle=' ',color = 'Black')
+plt.errorbar(T, width_left, sigma_width_left, xerr=1, linestyle=' ',color = 'Black')
 plt.scatter(T, width_left, color = 'Black', s = 7)
 plt.plot(x, func2(x, *p), color='Green')
 plt.xlabel('T, К')
