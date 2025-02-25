@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1740422379 "/home/dmitriy/Рабочий стол/Учёба/лабы 6 семестр/6-sem-lab-1-colored-centers/Тех-файлы/main.tex" "main.pdf" "main" 1740422380
+["pdflatex"] 1740505910 "/home/dmitriy/Рабочий стол/Учёба/лабы 6 семестр/6-sem-lab-1-colored-centers/Тех-файлы/main.tex" "main.pdf" "main" 1740505911
   "/etc/texmf/web2c/texmf.cnf" 1693993983 475 c0e671620eb5563b2130f56340a5fde8 ""
   "/home/dmitriy/.texlive2021/texmf-var/fonts/tfm/lh/lh-t2a/larm0500.tfm" 1716199841 3252 bc0f8cc163ba94bbce20e59f671a255d ""
   "/home/dmitriy/.texlive2021/texmf-var/fonts/tfm/lh/lh-t2a/larm0600.tfm" 1693994432 3248 7c0b9d76a2cd84ed06764a4c6eea5de4 ""
@@ -10,7 +10,7 @@
   "/home/dmitriy/.texlive2021/texmf-var/fonts/tfm/lh/lh-t2a/larm1095.tfm" 1716199837 3264 ead613d557baebcc53cf028c9c92d927 ""
   "/home/dmitriy/.texlive2021/texmf-var/fonts/tfm/lh/lh-t2a/larm1440.tfm" 1693994417 3256 3daaa33cf35cf3f354983aa3214ecd7f ""
   "/home/dmitriy/.texlive2021/texmf-var/fonts/tfm/lh/lh-t2a/larm1728.tfm" 1693994423 3252 92d08740ce00199d6cf9ff4aaada81d1 ""
-  "/home/dmitriy/Рабочий стол/Учёба/лабы 6 семестр/6-sem-lab-1-colored-centers/Тех-файлы/main.tex" 1740392883 367 1e922422796a785fe5bb863168f03506 ""
+  "/home/dmitriy/Рабочий стол/Учёба/лабы 6 семестр/6-sem-lab-1-colored-centers/Тех-файлы/main.tex" 1740505572 398 8a333bf2a03fd018e6d9ba7c1c557024 ""
   "/usr/share/texlive/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/adobe/symbol/psyr.tfm" 1136768653 1408 5937f58aa508ea2cea4901c07d10f5fe ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/adobe/zapfding/pzdr.tfm" 1136768653 1528 f853c4d1b4e0550255e02831fdc8496f ""
@@ -171,12 +171,16 @@
   "0_Title.tex" 1740321812 1145 4048ec1ad8f34a31898b98d6b7753e01 ""
   "1_Introduction.tex" 1740391738 5409 b912895d5634dcaa27d2d8429c25d53e ""
   "2_Electron-phonon interaction.tex" 1740422378 8917 ed9fb662344bf9acad1cdd01704fb1d8 ""
+  "3_Experimental_results.tex" 1740505909 3652 925df80ac5d1f95c29c8be6f7e510a8d ""
   "Energy levels.jpg" 1740321616 65829 bd368ff2745daa6571cd67230edf5116 ""
   "Jahn-Teller effect.jpg" 1740326678 29240 1959e4a7a44e19471a322d9dbd8ebe36 ""
   "literat.sty" 1740295648 164 39a8902336686aec57f606018276dfd9 ""
   "ljm.sty" 1740295648 15985 3771bbcc8cfd9f2731c1e1e4d39afee2 ""
-  "main.aux" 1740422379 5060 5b54d40a85d61e49902697eacad2dc91 "pdflatex"
-  "main.tex" 1740392883 367 1e922422796a785fe5bb863168f03506 ""
+  "main.aux" 1740505911 7222 df5fb7c728574313b5e470deee5e9b87 "pdflatex"
+  "main.tex" 1740505572 398 8a333bf2a03fd018e6d9ba7c1c557024 ""
+  "spectre_general.png" 1740502845 22170 4c54407033e521cf78b341b714198b12 ""
+  "spectre_local_147K.png" 1740504546 28730 2fcfddf57d8e09c985a44ebeb2657de5 ""
+  "spectre_local_273K.png" 1740504599 30943 088ca348263ebda14bde95d4f8165958 ""
   (generated)
   "main.aux"
   "main.log"

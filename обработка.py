@@ -14,6 +14,10 @@ width1 = []
 width2 = []
 frequence = []
 width = []
+sigma_width1 = []
+sigma_width2 = []
+sigma_width = []
+
 
 
 
@@ -55,12 +59,13 @@ for dir in dirs:
         print(popt)
         # # #print(pcov)
 
-        # plt.scatter(nu, I, s=8, color='Black')
-        # plt.plot(nu, func(nu, *popt))
-        # plt.xlabel('Частота, ГГц')
-        # plt.ylabel('Интенсивность, отн. ед.')
-        # plt.title(float(dir.replace('.csv', ''))+273)
-        # plt.show()        
+        plt.scatter(nu, I, s=8, color='Black')
+        plt.plot(nu, func(nu, *popt))
+        plt.xlabel('Частота, ТГц')
+        plt.ylabel('Интенсивность, отн. ед.')
+        s = float(dir.replace('.csv', ''))+273
+        plt.title(f'T = {s} К')
+        plt.show()        
 
         file.close()
 
@@ -69,6 +74,8 @@ for dir in dirs:
         frequence2.append(popt[4])
         width1.append(popt[2])
         width2.append(popt[5])
+        sigma_width1.append(pcov[2][2]**(0.5))
+        sigma_width2.append(pcov[5][5]**(0.5))
     
 for dir in dirs:
     if float(dir.replace('.csv', ''))+273 >= 240:
@@ -96,18 +103,20 @@ for dir in dirs:
         print(popt)
         # # #print(pcov)
 
-        # plt.scatter(nu, I, s=8, color='Black')
-        # plt.plot(nu, func1(nu, *popt))
-        # plt.xlabel('Частота, ГГц')
-        # plt.ylabel('Интенсивность, отн. ед.')
-        # plt.title(float(dir.replace('.csv', ''))+273)
-        # plt.show()        
+        plt.scatter(nu, I, s=8, color='Black')
+        plt.plot(nu, func1(nu, *popt))
+        plt.xlabel('Частота, ТГц')
+        plt.ylabel('Интенсивность, отн. ед.')
+        s = float(dir.replace('.csv', ''))+273
+        plt.title(f'T = {s} К')
+        plt.show()        
 
         file.close()
 
         T.append(float(dir.replace('.csv', ''))+273)
         frequence.append(popt[1])
         width.append(popt[2])
+        sigma_width.append(pcov[2][2]**(0.5))
         
     
         
@@ -119,6 +128,8 @@ width_left = []
 width_right = []
 wavelenght_left = []
 wavelenght_right = []
+sigma_width_left = []
+sigma_width_right = []
 
 
 for i in range(len(frequence1)):
@@ -126,17 +137,20 @@ for i in range(len(frequence1)):
         frequence_left.append(frequence1[i])
         wavelenght_left.append(c/frequence1[i]/10**(12)*10**9)
         width_left.append(width1[i])
+        sigma_width_left.append(sigma_width1[i])
         frequence_right.append(frequence2[i])
         width_right.append(width2[i])
         wavelenght_right.append(c/frequence2[i]/10**(12)*10**9)
+        sigma_width_right.append(sigma_width2[i])
     else:
         wavelenght_left.append(c/frequence2[i]/10**(12)*10**9)
         frequence_left.append(frequence2[i])
         width_left.append(width2[i])
+        sigma_width_left.append(sigma_width2[i])
         frequence_right.append(frequence1[i])
         width_right.append(width1[i])
         wavelenght_right.append(c/frequence1[i]/10**(12)*10**9)
-
+        sigma_width_right.append(sigma_width1[i])
 
 
 for i in range(len(frequence)):
@@ -144,6 +158,8 @@ for i in range(len(frequence)):
     frequence_right.append(frequence[i])
     width_left.append(width[i])
     width_right.append(width[i])
+    sigma_width_right.append(sigma_width[i])
+    sigma_width_left.append(sigma_width[i])
     
 
 # width_right_2 = []
@@ -160,13 +176,15 @@ x = np.linspace(0, 300, 10000)
 
 p, v = sp.curve_fit(func2, T, width_left)
 
+print(sigma_width_left)
 #print(T, width_right)
-print(p[0], v[0][0]**2)
+print(p[0], v[0][0]**(0.5))
 #plt.scatter(T, width_right)
-plt.scatter(T, width_right)
-plt.plot(x, func2(x, *p))
+plt.errorbar(T, width_left, sigma_width_left, linestyle=' ',color = 'Black')
+plt.scatter(T, width_left, color = 'Black', s = 7)
+plt.plot(x, func2(x, *p), color='Green')
 plt.xlabel('T, К')
-plt.ylabel('Ширина пика')
+plt.ylabel('Ширина пика, ТГц')
 
 plt.show()
 

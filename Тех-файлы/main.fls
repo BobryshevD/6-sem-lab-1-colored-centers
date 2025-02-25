@@ -817,6 +817,28 @@ INPUT ./2_Electron-phonon interaction.tex
 INPUT ./2_Electron-phonon interaction.tex
 INPUT 2_Electron-phonon interaction.tex
 INPUT /var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map
+INPUT ./3_Experimental_results.tex
+INPUT ./3_Experimental_results.tex
+INPUT ./3_Experimental_results.tex
+INPUT 3_Experimental_results.tex
+INPUT ./3_Experimental_results.tex
+INPUT ./3_Experimental_results.tex
+INPUT 3_Experimental_results.tex
+INPUT ./spectre_general.png
+INPUT ./spectre_general.png
+INPUT spectre_general.png
+INPUT ./spectre_general.png
+INPUT ./spectre_general.png
+INPUT ./spectre_local_273K.png
+INPUT ./spectre_local_273K.png
+INPUT spectre_local_273K.png
+INPUT ./spectre_local_273K.png
+INPUT ./spectre_local_273K.png
+INPUT ./spectre_local_147K.png
+INPUT ./spectre_local_147K.png
+INPUT spectre_local_147K.png
+INPUT ./spectre_local_147K.png
+INPUT ./spectre_local_147K.png
 INPUT main.aux
 INPUT /usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-t2a.enc
 INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb
