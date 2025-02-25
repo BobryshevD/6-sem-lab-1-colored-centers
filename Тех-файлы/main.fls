@@ -824,6 +824,11 @@ INPUT 3_Experimental_results.tex
 INPUT ./3_Experimental_results.tex
 INPUT ./3_Experimental_results.tex
 INPUT 3_Experimental_results.tex
+INPUT ./experimental_scheme.png
+INPUT ./experimental_scheme.png
+INPUT experimental_scheme.png
+INPUT ./experimental_scheme.png
+INPUT ./experimental_scheme.png
 INPUT ./spectre_general.png
 INPUT ./spectre_general.png
 INPUT spectre_general.png
@@ -844,6 +849,11 @@ INPUT ./peak_width.png
 INPUT peak_width.png
 INPUT ./peak_width.png
 INPUT ./peak_width.png
+INPUT ./delta_frequence.png
+INPUT ./delta_frequence.png
+INPUT delta_frequence.png
+INPUT ./delta_frequence.png
+INPUT ./delta_frequence.png
 INPUT main.aux
 INPUT /usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-t2a.enc
 INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb
