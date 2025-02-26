@@ -197,14 +197,18 @@ for i in range(len(T)):
 
 
 mean_wavelenght = []
+sigma_mean_wavelenght = []
 for i in range(len(wavelenght_right)):
     mean_wavelenght.append((wavelenght_right[i] + wavelenght_left[i])/2)
+#    sigma_mean_wavelenght.append((sigma_frequence_right[i] + sigma_frequence_left[i])*mean_wavelenght[i]**2/c/10**9*10**15/2)
 
 x = np.linspace(0, 300, 10000)
 
 p, v = sp.curve_fit(func2, T, mean_wavelenght)
 
 print(p)
+print(mean_wavelenght)
+print(sigma_frequence_left, sigma_mean_wavelenght)
 
 #print(sigma_width_left)
 #print(T, width_right)
@@ -216,7 +220,7 @@ fig, ax = plt.subplots()
 
 ax.scatter(T, mean_wavelenght, color = 'Black', s = 7)
 ax.plot(x, func2(x, *p), color='Green')
-#plt.errorbar(T_for_delta, delta_frequence, sigma_delta_frequence, xerr=1, linestyle=' ',color = 'Black')
+#plt.errorbar(T, mean_wavelenght, sigma_mean_wavelenght, xerr=1, linestyle=' ',color = 'Black')
 
 
 plt.xlabel('T, К')

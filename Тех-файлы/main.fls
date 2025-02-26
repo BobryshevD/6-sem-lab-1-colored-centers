@@ -854,6 +854,11 @@ INPUT ./delta_frequence.png
 INPUT delta_frequence.png
 INPUT ./delta_frequence.png
 INPUT ./delta_frequence.png
+INPUT ./mean_peak_wavelenght.png
+INPUT ./mean_peak_wavelenght.png
+INPUT mean_peak_wavelenght.png
+INPUT ./mean_peak_wavelenght.png
+INPUT ./mean_peak_wavelenght.png
 INPUT main.aux
 INPUT /usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-t2a.enc
 INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb
