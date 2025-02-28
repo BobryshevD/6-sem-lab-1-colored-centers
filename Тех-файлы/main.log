@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2023.9.6)  26 FEB 2025 17:13
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2023.9.6)  28 FEB 2025 23:21
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -771,7 +771,7 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 <Jahn-Teller effect.jpg, id=2, 1284.8pt x 758.835pt>
 File: Jahn-Teller effect.jpg Graphic file (type jpg)
 <use Jahn-Teller effect.jpg>
-Package pdftex.def Info: Jahn-Teller effect.jpg  used on input line 56.
+Package pdftex.def Info: Jahn-Teller effect.jpg  used on input line 54.
 (pdftex.def)             Requested size: 234.73523pt x 138.63387pt.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
@@ -815,8 +815,17 @@ Overfull \hbox (9.60074pt too wide) detected at line 125
 []\OML/cmm/m/it/10.95 ^^M[] \OT1/cmr/m/n/10.95 = 2\OML/cmm/m/it/10.95 ^^Y\U/msb/m/n/10.95 ~[] [][] \OML/cmm/m/it/10.95 n [] [] [][] [][] ^^Z [] ^^Z [] d!
  []
 
+
+LaTeX Font Warning: Font shape `T2A/tli/m/sl' undefined
+(Font)              using `T2A/tli/m/it' instead on input line 141.
+
+[4]
+
+LaTeX Font Warning: Font shape `T2A/tli/m/sl' undefined
+(Font)              using `T2A/tli/m/it' instead on input line 195.
+
 ) (./3_Experimental_results.tex
-<experimental_scheme.png, id=29, 648.4225pt x 335.2525pt>
+<experimental_scheme.png, id=32, 648.4225pt x 335.2525pt>
 File: experimental_scheme.png Graphic file (type png)
 <use experimental_scheme.png>
 Package pdftex.def Info: experimental_scheme.png  used on input line 17.
@@ -825,13 +834,13 @@ Package pdftex.def Info: experimental_scheme.png  used on input line 17.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<spectre_general.png, id=30, 462.528pt x 346.896pt>
+[5]
+<spectre_general.png, id=36, 462.528pt x 346.896pt>
 File: spectre_general.png Graphic file (type png)
 <use spectre_general.png>
 Package pdftex.def Info: spectre_general.png  used on input line 49.
 (pdftex.def)             Requested size: 328.62788pt x 246.48314pt.
-[4]
-<spectre_local_273K.png, id=35, 462.528pt x 346.896pt>
+<spectre_local_273K.png, id=38, 462.528pt x 346.896pt>
 File: spectre_local_273K.png Graphic file (type png)
 <use spectre_local_273K.png>
 Package pdftex.def Info: spectre_local_273K.png  used on input line 58.
@@ -841,7 +850,7 @@ Overfull \hbox (23.0057pt too wide) in paragraph at lines 58--59
  [][] 
  []
 
-<spectre_local_147K.png, id=36, 462.528pt x 346.896pt>
+<spectre_local_147K.png, id=39, 462.528pt x 346.896pt>
 File: spectre_local_147K.png Graphic file (type png)
 <use spectre_local_147K.png>
 Package pdftex.def Info: spectre_local_147K.png  used on input line 63.
@@ -854,62 +863,59 @@ Overfull \hbox (23.0057pt too wide) in paragraph at lines 63--64
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
+[6 <./experimental_scheme.png> <./spectre_general.png>]
 
 LaTeX Font Warning: Font shape `T2A/tli/m/sl' undefined
-(Font)              using `T2A/tli/m/it' instead on input line 72.
+(Font)              using `T2A/tli/m/it' instead on input line 73.
 
-[5 <./experimental_scheme.png> <./spectre_general.png>]
-<peak_width.png, id=41, 462.528pt x 346.896pt>
+<peak_width.png, id=44, 462.528pt x 346.896pt>
 File: peak_width.png Graphic file (type png)
 <use peak_width.png>
-Package pdftex.def Info: peak_width.png  used on input line 87.
-(pdftex.def)             Requested size: 422.52054pt x 316.90387pt.
-
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
+Package pdftex.def Info: peak_width.png  used on input line 88.
+(pdftex.def)             Requested size: 281.68513pt x 211.27277pt.
+[7 <./spectre_local_273K.png> <./spectre_local_147K.png> <./peak_width.png>]
 
 LaTeX Font Warning: Font shape `T2A/tli/m/sl' undefined
-(Font)              using `T2A/tli/m/it' instead on input line 94.
+(Font)              using `T2A/tli/m/it' instead on input line 96.
 
-<delta_frequence.png, id=42, 462.528pt x 346.896pt>
+<delta_frequence.png, id=52, 462.528pt x 346.896pt>
 File: delta_frequence.png Graphic file (type png)
 <use delta_frequence.png>
-Package pdftex.def Info: delta_frequence.png  used on input line 105.
-(pdftex.def)             Requested size: 422.52054pt x 316.90387pt.
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
+Package pdftex.def Info: delta_frequence.png  used on input line 107.
+(pdftex.def)             Requested size: 258.21017pt x 193.66759pt.
 
 LaTeX Font Warning: Font shape `T2A/tli/m/sl' undefined
-(Font)              using `T2A/tli/m/it' instead on input line 112.
+(Font)              using `T2A/tli/m/it' instead on input line 114.
 
-<mean_peak_wavelenght.png, id=43, 462.528pt x 346.896pt>
+<mean_peak_wavelenght.png, id=53, 462.528pt x 346.896pt>
 File: mean_peak_wavelenght.png Graphic file (type png)
 <use mean_peak_wavelenght.png>
-Package pdftex.def Info: mean_peak_wavelenght.png  used on input line 120.
-(pdftex.def)             Requested size: 422.52054pt x 316.90387pt.
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-) [6 <./spectre_local_273K.png> <./spectre_local_147K.png>] [7 <./peak_width.png>] [8 <./delta_frequence.png>] [9 <./mean_peak_wavelenght.png>] (./main.aux)
+Package pdftex.def Info: mean_peak_wavelenght.png  used on input line 123.
+(pdftex.def)             Requested size: 258.21017pt x 193.66759pt.
+) (./4_Conclusions.tex [8 <./delta_frequence.png> <./mean_peak_wavelenght.png>]
+<Beautiful.jpg, id=59, 963.6pt x 1284.8pt>
+File: Beautiful.jpg Graphic file (type jpg)
+<use Beautiful.jpg>
+Package pdftex.def Info: Beautiful.jpg  used on input line 18.
+(pdftex.def)             Requested size: 234.73523pt x 312.96535pt.
+) [9 <./Beautiful.jpg>] (./main.aux)
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 12540 strings out of 478287
- 182548 string characters out of 5849290
- 531566 words of memory out of 5000000
- 30452 multiletter control sequences out of 15000+600000
+ 12560 strings out of 478287
+ 182883 string characters out of 5849290
+ 532670 words of memory out of 5000000
+ 30468 multiletter control sequences out of 15000+600000
  494606 words of font info for 112 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  75i,9n,79p,1979b,738s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-t2a.enc}</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm10.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm0700.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm0900.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm1000.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm1095.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm1440.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm1728.pfb>
-Output written on main.pdf (9 pages, 433598 bytes).
+Output written on main.pdf (9 pages, 558638 bytes).
 PDF statistics:
- 126 PDF objects out of 1000 (max. 8388607)
+ 127 PDF objects out of 1000 (max. 8388607)
  69 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 46 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 51 words of extra memory for PDF output out of 10000 (max. 10000000)
 
